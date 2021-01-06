@@ -1,0 +1,259 @@
+#include "../ScDebug/scdebug.h"
+/* @(#)e_log.c 1.3 95/01/18 */
+/*
+ * ====================================================
+ * Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
+ *
+ * Developed at SunSoft, a Sun Microsystems, Inc. business.
+ * Permission to use, copy, modify, and distribute this
+ * software is freely granted, provided that this notice
+ * is preserved.
+ * ====================================================
+ */
+
+/* __ieee754_log(x)
+ * Return the logrithm of x
+ *
+ * Method :
+ *   1. Argument Reduction: find k and f such that
+ *			x = 2^k * (1+f),
+ *	   where  sqrt(2)/2 < 1+f < sqrt(2) .
+ *
+ *   2. Approximation of log(1+f).
+ *	Let s = f/(2+f) ; based on log(1+f) = log(1+s) - log(1-s)
+ *		 = 2s + 2/3 s**3 + 2/5 s**5 + .....,
+ *	     	 = 2s + s*R
+ *      We use a special Reme algorithm on [0,0.1716] to generate
+ * 	a polynomial of degree 14 to approximate R The maximum error
+ *	of this polynomial approximation is bounded by 2**-58.45. In
+ *	other words,
+ *		        2      4      6      8      10      12      14
+ *	    R(z) ~ Lg1*s +Lg2*s +Lg3*s +Lg4*s +Lg5*s  +Lg6*s  +Lg7*s
+ *  	(the values of Lg1 to Lg7 are listed in the program)
+ *	and
+ *	    |      2          14          |     -58.45
+ *	    | Lg1*s +...+Lg7*s    -  R(z) | <= 2
+ *	    |                             |
+ *	Note that 2s = f - s*f = f - hfsq + s*hfsq, where hfsq = f*f/2.
+ *	In order to guarantee error in log below 1ulp, we compute log
+ *	by
+ *		log(1+f) = f - s*(f - R)	(if f is not too large)
+ *		log(1+f) = f - (hfsq - s*(hfsq+R)).	(better accuracy)
+ *
+ *	3. Finally,  log(x) = k*ln2 + log(1+f).
+ *			    = k*ln2_hi+(f-(hfsq-(s*(hfsq+R)+k*ln2_lo)))
+ *	   Here ln2 is split into two floating point number:
+ *			ln2_hi + ln2_lo,
+ *	   where n*ln2_hi is always exact for |n| < 2000.
+ *
+ * Special cases:
+ *	log(x) is NaN with signal if x < 0 (including -INF) ;
+ *	log(+INF) is +INF; log(0) is -INF with signal;
+ *	log(NaN) is that NaN with no signal.
+ *
+ * Accuracy:
+ *	according to an error analysis, the error is always less than
+ *	1 ulp (unit in the last place).
+ *
+ * Constants:
+ * The hexadecimal values are the intended ones for the following
+ * constants. The decimal values may be used, provided that the
+ * compiler will convert from decimal to binary accurately enough
+ * to produce the hexadecimal values shown.
+ */
+
+#ifndef __FDLIBM_H__
+#include "fdlibm.h"
+#endif
+
+#ifndef __have_fpu_log
+
+double __ieee754_log(double x) {
+  double hfsq, f, s, z, R, w, t1, t2, dk;
+  int32_t k, hx, i, j;
+  uint32_t lx;
+
+  static const double ln2_hi =
+      6.93147180369123816490e-01; /* 3fe62e42 fee00000 */
+  static const double ln2_lo =
+      1.90821492927058770002e-10; /* 3dea39ef 35793c76 */
+  static const double two54 =
+      1.80143985094819840000e+16;                     /* 43500000 00000000 */
+  static const double Lg1 = 6.666666666666735130e-01; /* 3FE55555 55555593 */
+  static const double Lg2 = 3.999999999940941908e-01; /* 3FD99999 9997FA04 */
+  static const double Lg3 = 2.857142874366239149e-01; /* 3FD24924 94229359 */
+  static const double Lg4 = 2.222219843214978396e-01; /* 3FCC71C5 1D8E78AF */
+  static const double Lg5 = 1.818357216161805012e-01; /* 3FC74664 96CB03DE */
+  static const double Lg6 = 1.531383769920937332e-01; /* 3FC39A09 D078C69F */
+  static const double Lg7 = 1.479819860511658591e-01; /* 3FC2F112 DF3E5244 */
+
+  static const double zero = 0.0;
+
+  GET_DOUBLE_WORDS(hx, lx, x);
+
+  k = 0;
+  if (hx < IC(0x00100000)) { /* x < 2**-1022  */
+    if (((hx & IC(0x7fffffff)) | lx) == 0)
+      return -two54 / zero; /* log(+-0)=-inf */
+    if (hx < 0)
+      return (x - x) / zero; /* log(-#) = NaN */
+    k -= 54;
+    x *= two54; /* subnormal number, scale up x */
+    GET_HIGH_WORD(hx, x);
+  }
+
+  if (hx >= IC(0x7ff00000))
+    return x + x;
+  k += (hx >> 20) - 1023;
+  hx &= IC(0x000fffff);
+  i = (hx + IC(0x95f64)) & IC(0x100000);
+  SET_HIGH_WORD(x, hx | (i ^ IC(0x3ff00000))); /* normalize x or x/2 */
+  k += (i >> 20);
+  f = x - 1.0;
+  double temp_var_for_const_0;
+  computeDSub((Addr)&f, {(Addr)&x, (Addr) &(temp_var_for_const_0 = 1.0)},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:111:5");
+  if ((IC(0x000fffff) & (2 + hx)) < 3) { /* |f| < 2**-20 */
+    if (f == zero) {
+      if (k == 0)
+        return zero;
+      dk = (double)k;
+      return dk * ln2_hi + dk * ln2_lo;
+    }
+    R = f * f * (0.5 - 0.33333333333333333 * f);
+    if (k == 0)
+      return f - R;
+    dk = (double)k;
+    return dk * ln2_hi - ((R - dk * ln2_lo) - f);
+  }
+  s = f / (2.0 + f);
+  double temp_var_for_const_1;
+  double temp_var_for_tac_0;
+  computeDAdd((Addr)&temp_var_for_tac_0,
+              {(Addr) &(temp_var_for_const_1 = 2.0), (Addr)&f},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:125:9");
+  computeDDiv((Addr)&s, {(Addr)&f, (Addr)&temp_var_for_tac_0},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:125:5");
+  dk = (double)k;
+  z = s * s;
+  computeDMul((Addr)&z, {(Addr)&s, (Addr)&s},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:127:5");
+  i = hx - IC(0x6147a);
+  w = z * z;
+  computeDMul((Addr)&w, {(Addr)&z, (Addr)&z},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:129:5");
+  j = IC(0x6b851) - hx;
+  t1 = w * (Lg2 + w * (Lg4 + w * Lg6));
+  double temp_var_for_const_2, temp_var_for_const_3, temp_var_for_const_4;
+  double temp_var_for_tac_1, temp_var_for_tac_2, temp_var_for_tac_3,
+      temp_var_for_tac_4;
+  computeDMul((Addr)&temp_var_for_tac_1,
+              {(Addr)&w, (Addr) &(temp_var_for_const_2 = Lg6)},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:131:28");
+  computeDAdd((Addr)&temp_var_for_tac_2,
+              {(Addr) &(temp_var_for_const_3 = Lg4), (Addr)&temp_var_for_tac_1},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:131:21");
+  computeDMul((Addr)&temp_var_for_tac_3, {(Addr)&w, (Addr)&temp_var_for_tac_2},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:131:17");
+  computeDAdd((Addr)&temp_var_for_tac_4,
+              {(Addr) &(temp_var_for_const_4 = Lg2), (Addr)&temp_var_for_tac_3},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:131:10");
+  computeDMul((Addr)&t1, {(Addr)&w, (Addr)&temp_var_for_tac_4},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:131:6");
+  t2 = z * (Lg1 + w * (Lg3 + w * (Lg5 + w * Lg7)));
+  double temp_var_for_const_5, temp_var_for_const_6, temp_var_for_const_7,
+      temp_var_for_const_8;
+  double temp_var_for_tac_5, temp_var_for_tac_6, temp_var_for_tac_7,
+      temp_var_for_tac_8, temp_var_for_tac_9, temp_var_for_tac_10;
+  computeDMul((Addr)&temp_var_for_tac_5,
+              {(Addr)&w, (Addr) &(temp_var_for_const_5 = Lg7)},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:132:39");
+  computeDAdd((Addr)&temp_var_for_tac_6,
+              {(Addr) &(temp_var_for_const_6 = Lg5), (Addr)&temp_var_for_tac_5},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:132:32");
+  computeDMul((Addr)&temp_var_for_tac_7, {(Addr)&w, (Addr)&temp_var_for_tac_6},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:132:28");
+  computeDAdd((Addr)&temp_var_for_tac_8,
+              {(Addr) &(temp_var_for_const_7 = Lg3), (Addr)&temp_var_for_tac_7},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:132:21");
+  computeDMul((Addr)&temp_var_for_tac_9, {(Addr)&w, (Addr)&temp_var_for_tac_8},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:132:17");
+  computeDAdd((Addr)&temp_var_for_tac_10,
+              {(Addr) &(temp_var_for_const_8 = Lg1), (Addr)&temp_var_for_tac_9},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:132:10");
+  computeDMul((Addr)&t2, {(Addr)&z, (Addr)&temp_var_for_tac_10},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:132:6");
+  i |= j;
+  R = t2 + t1;
+  computeDAdd((Addr)&R, {(Addr)&t2, (Addr)&t1},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:134:5");
+  if (i > 0) {
+    hfsq = 0.5 * f * f;
+    if (k == 0)
+      return f - (hfsq - s * (hfsq + R));
+    return dk * ln2_hi - ((hfsq - (s * (hfsq + R) + dk * ln2_lo)) - f);
+  }
+  if (k == 0)
+    return f - s * (f - R);
+  double temp_var_for_ext_0;
+  temp_var_for_ext_0 = dk * ln2_hi - ((s * (f - R) - dk * ln2_lo) - f);
+  double temp_var_for_const_9, temp_var_for_const_10;
+  double temp_var_for_tac_11, temp_var_for_tac_12, temp_var_for_tac_13,
+      temp_var_for_tac_14, temp_var_for_tac_15, temp_var_for_tac_16;
+  computeDMul((Addr)&temp_var_for_tac_11,
+              {(Addr)&dk, (Addr) &(temp_var_for_const_9 = ln2_hi)},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:144:47");
+  computeDSub((Addr)&temp_var_for_tac_12, {(Addr)&f, (Addr)&R},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:144:42");
+  computeDMul((Addr)&temp_var_for_tac_13,
+              {(Addr)&s, (Addr)&temp_var_for_tac_12},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:144:57");
+  computeDMul((Addr)&temp_var_for_tac_14,
+              {(Addr)&dk, (Addr) &(temp_var_for_const_10 = ln2_lo)},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:144:52");
+  computeDSub((Addr)&temp_var_for_tac_15,
+              {(Addr)&temp_var_for_tac_13, (Addr)&temp_var_for_tac_14},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:144:67");
+  computeDSub((Addr)&temp_var_for_tac_16,
+              {(Addr)&temp_var_for_tac_15, (Addr)&f},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:144:36");
+  computeDSub((Addr)&temp_var_for_ext_0,
+              {(Addr)&temp_var_for_tac_11, (Addr)&temp_var_for_tac_16},
+              "/home/shijia/Public/testprogram/e_log.c_e.c:144:22");
+  callExpStack.push(getReal("temp_var_for_ext_0", (Addr)&temp_var_for_ext_0));
+  callExp++; /*identify the function is  add move tmpShadow*/
+  return temp_var_for_ext_0;
+}
+
+#endif
+
+/* wrapper log(x) */
+double __log(double x) {
+  if (_LIB_VERSION != _IEEE_ && islessequal(x, 0.0)) {
+    if (x == 0.0) {
+      feraiseexcept(FE_DIVBYZERO);
+      return __kernel_standard(x, x, -HUGE_VAL, KMATHERR_LOG_ZERO); /* log(0) */
+    } else {
+      feraiseexcept(FE_INVALID);
+      return __kernel_standard(x, x, __builtin_nan(""),
+                               KMATHERR_LOG_MINUS); /* log(x<0) */
+    }
+  }
+
+  double temp_var_for_ext_1;
+  temp_var_for_ext_1 = __ieee754_log(x);
+  double temp_var_for_callexp_0 =
+      __ieee754_log(getFVbyShadow<double>((Addr)&x));
+  CallStackPop((Addr)&temp_var_for_callexp_0, getTop(temp_var_for_callexp_0));
+  AssignD({(Addr)&temp_var_for_ext_1}, (Addr)&temp_var_for_callexp_0,
+          "/home/shijia/Public/testprogram/e_log.c_e.c:166:22");
+  callExpStack.push(getReal("temp_var_for_ext_1", (Addr)&temp_var_for_ext_1));
+  callExp++; /*identify the function is  add move tmpShadow*/
+  return temp_var_for_ext_1;
+}
+
+__typeof(__log) log __attribute__((weak, alias("__log")));
+#ifdef __NO_LONG_DOUBLE_MATH
+__typeof(__logl) __logl __attribute__((alias("__log")));
+__typeof(__logl) logl __attribute__((weak, alias("__log")));
+#endif

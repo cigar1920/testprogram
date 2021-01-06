@@ -1,0 +1,3508 @@
+
+==12941== Beta0 `s type is double,and it`s address is 0x2255B4F8
+Origin Value:2.76148391289561726153e+07
+ShadowValue: higher=2.76148391289561726153e+07 remainder=3.93368260255515585397e-10
+Absolutely Error:3.93368260255515585397e-10
+Related Error:1.42448144788589496424e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:97:9
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9C90
+Origin Value:7.10914837008576272481e-01
+ShadowValue: higher=7.10914837008576050437e-01 remainder=1.61127619942579673116e-17
+Absolutely Error:2.05931842930773337692e-16
+Related Error:2.89671606513803999000e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9C98
+Origin Value:9.29403549071751045041e-01
+ShadowValue: higher=9.29403549071750822996e-01 remainder=1.27887076698991600308e-17
+Absolutely Error:2.09255897255132148054e-16
+Related Error:2.25150740455131805451e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CA0
+Origin Value:1.03567136174241669622e+00
+ShadowValue: higher=1.03567136174241669622e+00 remainder=1.11719651896471772091e-17
+Absolutely Error:1.11719651896471772091e-17
+Related Error:1.07871720724723221020e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CA8
+Origin Value:1.10281815475788125269e+00
+ShadowValue: higher=1.10281815475788125269e+00 remainder=-1.00871898458259802711e-16
+Absolutely Error:1.00871898458259802711e-16
+Related Error:9.14673901794859096291e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CB0
+Origin Value:1.15064323942700252879e+00
+ShadowValue: higher=1.15064323942700230674e+00 remainder=1.20445102839078137947e-16
+Absolutely Error:1.01599502085953170137e-16
+Related Error:8.82980046330848203553e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CB8
+Origin Value:1.18716297356976840938e+00
+ShadowValue: higher=1.18716297356976818733e+00 remainder=1.19889497109814682436e-16
+Absolutely Error:1.02155107815216625649e-16
+Related Error:8.60497758854783619207e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CC0
+Origin Value:1.21635480223783920550e+00
+ShadowValue: higher=1.21635480223783898346e+00 remainder=8.42307456711847098407e-18
+Absolutely Error:2.13621530357912827856e-16
+Related Error:1.75624357272149371681e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CC8
+Origin Value:1.24045741850428825614e+00
+ShadowValue: higher=1.24045741850428803410e+00 remainder=8.05638099712898365580e-18
+Absolutely Error:2.13988223927902335214e-16
+Related Error:1.72507512741488438228e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CD0
+Origin Value:1.26084495958555597994e+00
+ShadowValue: higher=1.26084495958555575790e+00 remainder=7.74620802089469783819e-18
+Absolutely Error:2.14298396904136621032e-16
+Related Error:1.69964114362306097519e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CD8
+Origin Value:1.27841621336140365273e+00
+ShadowValue: higher=1.27841621336140365273e+00 remainder=7.47888161512081547509e-18
+Absolutely Error:7.47888161512081547509e-18
+Related Error:5.85011480373533314895e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CE0
+Origin Value:1.29378837945428326606e+00
+ShadowValue: higher=1.29378837945428304401e+00 remainder=6.27561630290627636051e-17
+Absolutely Error:1.59288441895968544480e-16
+Related Error:1.23117848657101136218e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CE8
+Origin Value:1.30740194555931665832e+00
+ShadowValue: higher=1.30740194555931665832e+00 remainder=-1.03984405406951029735e-16
+Absolutely Error:1.03984405406951029735e-16
+Related Error:7.95351466013504311387e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CF0
+Origin Value:1.31958127887015641555e+00
+ShadowValue: higher=1.31958127887015619351e+00 remainder=1.17874904977335320936e-16
+Absolutely Error:1.04169699947695987149e-16
+Related Error:7.89414806164024505259e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9CF8
+Origin Value:1.33057151532760187251e+00
+ShadowValue: higher=1.33057151532760187251e+00 remainder=6.21965499455830533120e-17
+Absolutely Error:6.21965499455830533120e-17
+Related Error:4.67442367652591412568e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D00
+Origin Value:1.34056200721142548815e+00
+ShadowValue: higher=1.34056200721142548815e+00 remainder=-4.89777463542128230270e-17
+Absolutely Error:4.89777463542128230270e-17
+Related Error:3.65352337980203110240e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D08
+Origin Value:1.34970177453587547589e+00
+ShadowValue: higher=1.34970177453587547589e+00 remainder=-1.04627948627566074027e-16
+Absolutely Error:1.04627948627566074027e-16
+Related Error:7.75193087847459348630e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D10
+Origin Value:1.35811000442767415564e+00
+ShadowValue: higher=1.35811000442767393359e+00 remainder=6.17775835243203610966e-17
+Absolutely Error:1.60267021400710946988e-16
+Related Error:1.18007393273160990308e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D18
+Origin Value:1.36588337661560021985e+00
+ShadowValue: higher=1.36588337661559999781e+00 remainder=6.16593206118241977798e-17
+Absolutely Error:1.60385284313207110305e-16
+Related Error:1.17422385438653953029e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D20
+Origin Value:1.37310129342834041921e+00
+ShadowValue: higher=1.37310129342834041921e+00 remainder=-4.94727941488540905819e-17
+Absolutely Error:4.94727941488540905819e-17
+Related Error:3.60299668972935696213e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D28
+Origin Value:1.37982968997969068781e+00
+ShadowValue: higher=1.37982968997969068781e+00 remainder=-4.95751589595636227199e-17
+Absolutely Error:4.95751589595636227199e-17
+Related Error:3.59284622729732009721e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D30
+Origin Value:1.38612386014151889313e+00
+ShadowValue: higher=1.38612386014151889313e+00 remainder=-4.96709175154501455083e-17
+Absolutely Error:4.96709175154501455083e-17
+Related Error:3.58344004772985444302e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D38
+Origin Value:1.39203058629312392824e+00
+ShadowValue: higher=1.39203058629312392824e+00 remainder=6.12615209059366085370e-17
+Absolutely Error:6.12615209059366085370e-17
+Related Error:4.40087462941971555866e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D40
+Origin Value:1.39758976756124431162e+00
+ShadowValue: higher=1.39758976756124431162e+00 remainder=-4.98453581022490384992e-17
+Absolutely Error:4.98453581022490384992e-17
+Related Error:3.56652282802755640398e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D48
+Origin Value:1.40283568087120835699e+00
+ShadowValue: higher=1.40283568087120835699e+00 remainder=-4.99251686364342399574e-17
+Absolutely Error:4.99251686364342399574e-17
+Related Error:3.55887502130178353376e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D50
+Origin Value:1.40779796916049915190e+00
+ShadowValue: higher=1.40779796916049915190e+00 remainder=5.51048708894151430241e-18
+Absolutely Error:5.51048708894151430241e-18
+Related Error:3.91425986516200104344e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D58
+Origin Value:1.41250242412615767407e+00
+ShadowValue: higher=1.41250242412615745202e+00 remainder=6.09500654516301627521e-17
+Absolutely Error:1.61094539473401145333e-16
+Related Error:1.14049035755150685314e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D60
+Origin Value:1.41697161233619217668e+00
+ShadowValue: higher=1.41697161233619195464e+00 remainder=6.08820718960104838189e-17
+Absolutely Error:1.61162533029020824266e-16
+Related Error:1.13737305409604258546e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D68
+Origin Value:1.42122538058312164466e+00
+ShadowValue: higher=1.42122538058312164466e+00 remainder=6.08173557072311842524e-17
+Absolutely Error:6.08173557072311842524e-17
+Related Error:4.27921964651926823720e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D70
+Origin Value:1.42528126717367453757e+00
+ShadowValue: higher=1.42528126717367453757e+00 remainder=5.24449882888007269798e-18
+Absolutely Error:5.24449882888007269798e-18
+Related Error:3.67962376947526052746e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D78
+Origin Value:1.42915483924615238642e+00
+ShadowValue: higher=1.42915483924615238642e+00 remainder=-5.03255843438801239417e-17
+Absolutely Error:5.03255843438801239417e-17
+Related Error:3.52135282769120810117e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D80
+Origin Value:1.43285997139977627768e+00
+ShadowValue: higher=1.43285997139977627768e+00 remainder=-1.05893104897110118551e-16
+Absolutely Error:1.05893104897110118551e-16
+Related Error:7.39033171494504130581e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D88
+Origin Value:1.43640907737894063523e+00
+ShadowValue: higher=1.43640907737894063523e+00 remainder=-5.04359492291299013553e-17
+Absolutely Error:5.04359492291299013553e-17
+Related Error:3.51125247141725893353e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D90
+Origin Value:1.43981330391784090317e+00
+ShadowValue: higher=1.43981330391784090317e+00 remainder=-5.04877406184464165348e-17
+Absolutely Error:5.04877406184464165348e-17
+Related Error:3.50654772261552657881e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9D98
+Origin Value:1.44308269386665632972e+00
+ShadowValue: higher=1.44308269386665632972e+00 remainder=4.97367060704748240420e-18
+Absolutely Error:4.97367060704748240420e-18
+Related Error:3.44655966576719228625e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DA0
+Origin Value:1.44622632421341412723e+00
+ShadowValue: higher=1.44622632421341412723e+00 remainder=6.04369951201666399838e-17
+Absolutely Error:6.04369951201666399838e-17
+Related Error:4.17894447835041488587e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DA8
+Origin Value:1.44925242346088345435e+00
+ShadowValue: higher=1.44925242346088345435e+00 remainder=-5.06313459600629570381e-17
+Absolutely Error:5.06313459600629570381e-17
+Related Error:3.49361816757586684202e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DB0
+Origin Value:1.45216847192563491831e+00
+ShadowValue: higher=1.45216847192563491831e+00 remainder=-1.06186861513018531013e-16
+Absolutely Error:1.06186861513018531013e-16
+Related Error:7.31229630486402137606e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DB8
+Origin Value:1.45498128783166502664e+00
+ShadowValue: higher=1.45498128783166480460e+00 remainder=1.15814949654899311061e-16
+Absolutely Error:1.06229655270131997024e-16
+Related Error:7.30110113157842374584e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DC0
+Origin Value:1.45769710152602849362e+00
+ShadowValue: higher=1.45769710152602849362e+00 remainder=-1.06270973250221927776e-16
+Absolutely Error:1.06270973250221927776e-16
+Related Error:7.29033302864973605003e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DC8
+Origin Value:1.46032161971350138430e+00
+ShadowValue: higher=1.46032161971350116225e+00 remainder=6.02225514195390689737e-17
+Absolutely Error:1.61822053505492226785e-16
+Related Error:1.10812612318401414741e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DD0
+Origin Value:1.46286008126510269634e+00
+ShadowValue: higher=1.46286008126510269634e+00 remainder=-1.06349522045563281877e-16
+Absolutely Error:1.06349522045563281877e-16
+Related Error:7.26997225555506764499e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DD8
+Origin Value:1.46531730588157782513e+00
+ShadowValue: higher=1.46531730588157760309e+00 remainder=1.15657699034622281819e-16
+Absolutely Error:1.06386905890409026266e-16
+Related Error:7.26033231596917282519e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DE0
+Origin Value:1.46769773667268732531e+00
+ShadowValue: higher=1.46769773667268732531e+00 remainder=4.59918105694200023379e-18
+Absolutely Error:4.59918105694200023379e-18
+Related Error:3.13360233651955823779e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DE8
+Origin Value:1.47000547753495069969e+00
+ShadowValue: higher=1.47000547753495069969e+00 remainder=4.56407143539556468436e-18
+Absolutely Error:4.56407143539556468436e-18
+Related Error:3.10479893112306441062e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DF0
+Origin Value:1.47224432606553534697e+00
+ShadowValue: higher=1.47224432606553534697e+00 remainder=-1.06492292531119083355e-16
+Absolutely Error:1.06492292531119083355e-16
+Related Error:7.23333013724100425776e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9DF8
+Origin Value:1.47441780263149868624e+00
+ShadowValue: higher=1.47441780263149868624e+00 remainder=4.49694298661137118036e-18
+Absolutely Error:4.49694298661137118036e-18
+Related Error:3.04997876353999270718e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E00
+Origin Value:1.47652917611626199879e+00
+ShadowValue: higher=1.47652917611626177674e+00 remainder=1.15487123331256094315e-16
+Absolutely Error:1.06557481593775213770e-16
+Related Error:7.21675421775647243936e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E08
+Origin Value:1.47858148678488410255e+00
+ShadowValue: higher=1.47858148678488410255e+00 remainder=5.99447485549073412180e-17
+Absolutely Error:5.99447485549073412180e-17
+Related Error:4.05420662240637010330e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E10
+Origin Value:1.48057756664316109152e+00
+ShadowValue: higher=1.48057756664316109152e+00 remainder=-1.06619073196886245892e-16
+Absolutely Error:1.06619073196886245892e-16
+Related Error:7.20118118759683068622e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E18
+Origin Value:1.48252005761017913166e+00
+ShadowValue: higher=1.48252005761017913166e+00 remainder=-5.11374747303363573711e-17
+Absolutely Error:5.11374747303363573711e-17
+Related Error:3.44936140781595331087e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E20
+Origin Value:1.48441142777769474748e+00
+ShadowValue: higher=1.48441142777769474748e+00 remainder=4.34490148034980912200e-18
+Absolutely Error:4.34490148034980912200e-18
+Related Error:2.92701969214460984877e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E28
+Origin Value:1.48625398599089075802e+00
+ShadowValue: higher=1.48625398599089075802e+00 remainder=-1.06705433385023736274e-16
+Absolutely Error:1.06705433385023736274e-16
+Related Error:7.17948845828546916525e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E30
+Origin Value:1.48804989495240280739e+00
+ShadowValue: higher=1.48804989495240280739e+00 remainder=4.28954638931595772738e-18
+Absolutely Error:4.28954638931595772738e-18
+Related Error:2.88266301006873443646e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E38
+Origin Value:1.48980118302391684182e+00
+ShadowValue: higher=1.48980118302391684182e+00 remainder=1.15285205019148707386e-16
+Absolutely Error:1.15285205019148707386e-16
+Related Error:7.73829463506997084554e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E40
+Origin Value:1.49150975487624593008e+00
+ShadowValue: higher=1.49150975487624593008e+00 remainder=-5.12742426291892046535e-17
+Absolutely Error:5.12742426291892046535e-17
+Related Error:3.43774101788851879314e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E48
+Origin Value:1.49317740111891961163e+00
+ShadowValue: higher=1.49317740111891938959e+00 remainder=5.97226885148170671354e-17
+Absolutely Error:1.62321916410214240949e-16
+Related Error:1.08709063161937466702e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E50
+Origin Value:1.49480580702335541510e+00
+ShadowValue: higher=1.49480580702335541510e+00 remainder=4.18676296163963657064e-18
+Absolutely Error:4.18676296163963657064e-18
+Related Error:2.80087416169250989969e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E58
+Origin Value:1.49639656043917312900e+00
+ShadowValue: higher=1.49639656043917312900e+00 remainder=-5.13485897522527167329e-17
+Absolutely Error:5.13485897522527167329e-17
+Related Error:3.43148274393136607170e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E60
+Origin Value:1.49795115899076569654e+00
+ShadowValue: higher=1.49795115899076569654e+00 remainder=-5.13722411802338998849e-17
+Absolutely Error:5.13722411802338998849e-17
+Related Error:3.42950041274013220667e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E68
+Origin Value:1.49947101663053605769e+00
+ShadowValue: higher=1.49947101663053605769e+00 remainder=4.11578716603741289987e-18
+Absolutely Error:4.11578716603741289987e-18
+Related Error:2.74482608892701742596e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E70
+Origin Value:1.50095746961596776536e+00
+ShadowValue: higher=1.50095746961596776536e+00 remainder=-5.14179787368321482763e-17
+Absolutely Error:5.14179787368321482763e-17
+Related Error:3.42567859367713209468e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E78
+Origin Value:1.50241178196970803782e+00
+ShadowValue: higher=1.50241178196970803782e+00 remainder=-5.14401044257190941486e-17
+Absolutely Error:5.14401044257190941486e-17
+Related Error:3.42383526560737793325e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E80
+Origin Value:1.50383515047492100081e+00
+ShadowValue: higher=1.50383515047492100081e+00 remainder=5.95605431229557915172e-17
+Absolutely Error:5.95605431229557915172e-17
+Related Error:3.96057660336947056112e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E88
+Origin Value:1.50522870925214413695e+00
+ShadowValue: higher=1.50522870925214391491e+00 remainder=1.15050492961080152804e-16
+Absolutely Error:1.06994111963951155281e-16
+Related Error:7.10816311875356052225e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E90
+Origin Value:1.50659353395863648828e+00
+ShadowValue: higher=1.50659353395863648828e+00 remainder=5.95185774925087806577e-17
+Absolutely Error:5.95185774925087806577e-17
+Related Error:3.95053982052619529875e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9E98
+Origin Value:1.50793064564663814586e+00
+ShadowValue: higher=1.50793064564663814586e+00 remainder=3.98708364562252490323e-18
+Absolutely Error:3.98708364562252490323e-18
+Related Error:2.64407627574460785112e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EA0
+Origin Value:1.50924101431293933295e+00
+ShadowValue: higher=1.50924101431293911091e+00 remainder=1.14989450356809918929e-16
+Absolutely Error:1.07055154568221389155e-16
+Related Error:7.09331071399200970963e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EA8
+Origin Value:1.51052556216866018524e+00
+ShadowValue: higher=1.51052556216866018524e+00 remainder=3.94760497688524337293e-18
+Absolutely Error:3.94760497688524337293e-18
+Related Error:2.61339832688277746588e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EB0
+Origin Value:1.51178516665504814043e+00
+ShadowValue: higher=1.51178516665504814043e+00 remainder=5.94395927753944332655e-17
+Absolutely Error:5.94395927753944332655e-17
+Related Error:3.93174864302376576429e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EB8
+Origin Value:1.51302066322838157930e+00
+ShadowValue: higher=1.51302066322838157930e+00 remainder=-1.07112657576973170697e-16
+Absolutely Error:1.07112657576973170697e-16
+Related Error:7.07939158930079590316e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EC0
+Origin Value:1.51423284793467693987e+00
+ShadowValue: higher=1.51423284793467693987e+00 remainder=-5.16199483410790087464e-17
+Absolutely Error:5.16199483410790087464e-17
+Related Error:3.40898352664093425468e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EC8
+Origin Value:1.51542247979277799885e+00
+ShadowValue: higher=1.51542247979277799885e+00 remainder=-1.07149198452068310516e-16
+Absolutely Error:1.07149198452068310516e-16
+Related Error:7.07058261843391071109e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9ED0
+Origin Value:1.51659028300252463062e+00
+ShadowValue: higher=1.51659028300252463062e+00 remainder=3.85533722848089036070e-18
+Absolutely Error:3.85533722848089036070e-18
+Related Error:2.54210861805612156629e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9ED8
+Origin Value:1.51773694899304611994e+00
+ShadowValue: higher=1.51773694899304611994e+00 remainder=5.93490432562387510433e-17
+Absolutely Error:5.93490432562387510433e-17
+Related Error:3.91036426276729410271e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EE0
+Origin Value:1.51886313832473573981e+00
+ShadowValue: higher=1.51886313832473573981e+00 remainder=1.14843060812796867658e-16
+Absolutely Error:1.14843060812796867658e-16
+Related Error:7.56111975562627714690e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EE8
+Origin Value:1.51996948245715879366e+00
+ShadowValue: higher=1.51996948245715879366e+00 remainder=-1.07218375865064527538e-16
+Absolutely Error:1.07218375865064527538e-16
+Related Error:7.05398214257150600286e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EF0
+Origin Value:1.52105658539396659812e+00
+ShadowValue: higher=1.52105658539396637607e+00 remainder=1.14809690039785847264e-16
+Absolutely Error:1.07234914885245460820e-16
+Related Error:7.05002798153434374641e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9EF8
+Origin Value:1.52212502521484993601e+00
+ShadowValue: higher=1.52212502521484993601e+00 remainder=-5.17400187363366766267e-17
+Absolutely Error:5.17400187363366766267e-17
+Related Error:3.39919637869652048733e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F00
+Origin Value:1.52317535550362359587e+00
+ShadowValue: higher=1.52317535550362359587e+00 remainder=-1.07267149534252366276e-16
+Absolutely Error:1.07267149534252366276e-16
+Related Error:7.04233751857057109072e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F08
+Origin Value:1.52420810668070183524e+00
+ShadowValue: higher=1.52420810668070183524e+00 remainder=3.73944080756040773755e-18
+Absolutely Error:3.73944080756040773755e-18
+Related Error:2.45336630291506724909e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F10
+Origin Value:1.52522378724747231793e+00
+ShadowValue: higher=1.52522378724747209588e+00 remainder=1.14746290859064712085e-16
+Absolutely Error:1.07298314065966596000e-16
+Related Error:7.03492267581302351423e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F18
+Origin Value:1.52622288494939839509e+00
+ShadowValue: higher=1.52622288494939839509e+00 remainder=-1.07313514187772352460e-16
+Absolutely Error:1.07313514187772352460e-16
+Related Error:7.03131339767129102965e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F20
+Origin Value:1.52720586786408074609e+00
+ShadowValue: higher=1.52720586786408074609e+00 remainder=3.69383332088107584176e-18
+Absolutely Error:3.69383332088107584176e-18
+Related Error:2.41868722390858555335e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F28
+Origin Value:1.52817318541995561532e+00
+ShadowValue: higher=1.52817318541995561532e+00 remainder=3.14346923130548423001e-17
+Absolutely Error:3.14346923130548423001e-17
+Related Error:2.05701111712782135816e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F30
+Origin Value:1.52912526935081993784e+00
+ShadowValue: higher=1.52912526935081993784e+00 remainder=3.14202074516738697918e-17
+Absolutely Error:3.14202074516738697918e-17
+Related Error:2.05478308948573672501e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F38
+Origin Value:1.53006253459092822489e+00
+ShadowValue: higher=1.53006253459092800284e+00 remainder=1.14672674886506639955e-16
+Absolutely Error:1.07371930038524668130e-16
+Related Error:7.01748638445233487048e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F40
+Origin Value:1.53098538011500306943e+00
+ShadowValue: higher=1.53098538011500306943e+00 remainder=-7.96303944555640368154e-17
+Absolutely Error:7.96303944555640368154e-17
+Related Error:5.20125113471576289258e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F48
+Origin Value:1.53189418972714164191e+00
+ShadowValue: higher=1.53189418972714164191e+00 remainder=-7.96442209479842722398e-17
+Absolutely Error:7.96442209479842722398e-17
+Related Error:5.19906802193501109317e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F50
+Origin Value:1.53278933280226481450e+00
+ShadowValue: higher=1.53278933280226481450e+00 remainder=5.91200385583737350287e-17
+Absolutely Error:5.91200385583737350287e-17
+Related Error:3.85702309464078347677e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F58
+Origin Value:1.53367116498346534037e+00
+ShadowValue: higher=1.53367116498346511833e+00 remainder=1.14617773727778314152e-16
+Absolutely Error:1.07426831197252993933e-16
+Related Error:7.00455440840287170977e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F60
+Origin Value:1.53454002883833129367e+00
+ShadowValue: higher=1.53454002883833129367e+00 remainder=-7.96844743453156848674e-17
+Absolutely Error:7.96844743453156848674e-17
+Related Error:5.19272699622166058653e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F68
+Origin Value:1.53539625447708449890e+00
+ShadowValue: higher=1.53539625447708449890e+00 remainder=3.13248016294228681465e-17
+Absolutely Error:3.13248016294228681465e-17
+Related Error:2.04017702518697819797e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F70
+Origin Value:1.53624016013513942092e+00
+ShadowValue: higher=1.53624016013513942092e+00 remainder=-2.41991886552831616468e-17
+Absolutely Error:2.41991886552831616468e-17
+Related Error:1.57522171879391659847e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F78
+Origin Value:1.53707205272248992323e+00
+ShadowValue: higher=1.53707205272248992323e+00 remainder=3.54373067194406451415e-18
+Absolutely Error:3.54373067194406451415e-18
+Related Error:2.30550719185046931999e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F80
+Origin Value:1.53789222834214478475e+00
+ShadowValue: higher=1.53789222834214478475e+00 remainder=-2.42243229719065501844e-17
+Absolutely Error:2.42243229719065501844e-17
+Related Error:1.57516388505457806296e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F88
+Origin Value:1.53870097277965833804e+00
+ShadowValue: higher=1.53870097277965811600e+00 remainder=1.14541250990297972359e-16
+Absolutely Error:1.07503353934733335726e-16
+Related Error:6.98663066031139872329e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F90
+Origin Value:1.53949856196565226796e+00
+ShadowValue: higher=1.53949856196565204591e+00 remainder=8.67735409730437736968e-17
+Absolutely Error:1.35271063951987522062e-16
+Related Error:8.78669634996421509083e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9F98
+Origin Value:1.54028526241307894828e+00
+ShadowValue: higher=1.54028526241307872624e+00 remainder=8.67615722310453849009e-17
+Absolutely Error:1.35283032693985923184e-16
+Related Error:8.78298559333389713591e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FA0
+Origin Value:1.54106133163084835225e+00
+ShadowValue: higher=1.54106133163084835225e+00 remainder=5.89941896153432461297e-17
+Absolutely Error:5.89941896153432461297e-17
+Related Error:3.82815326064355087572e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FA8
+Origin Value:1.54182701851532044657e+00
+ShadowValue: higher=1.54182701851532044657e+00 remainder=3.47138933926566820960e-18
+Absolutely Error:3.47138933926566820960e-18
+Related Error:2.25147782311428878922e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FB0
+Origin Value:1.54258256372105417853e+00
+ShadowValue: higher=1.54258256372105417853e+00 remainder=-5.20512566428406189267e-17
+Absolutely Error:5.20512566428406189267e-17
+Related Error:3.37429307623452904589e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FB8
+Origin Value:1.54332820001210824223e+00
+ShadowValue: higher=1.54332820001210824223e+00 remainder=3.12041262059316507556e-17
+Absolutely Error:3.12041262059316507556e-17
+Related Error:2.02187235389639341838e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FC0
+Origin Value:1.54406415259509177673e+00
+ShadowValue: higher=1.54406415259509177673e+00 remainder=-1.07584948543852783909e-16
+Absolutely Error:1.07584948543852783909e-16
+Related Error:6.96764757882863421770e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FC8
+Origin Value:1.54479063943507810563e+00
+ShadowValue: higher=1.54479063943507810563e+00 remainder=5.89374524886676604679e-17
+Absolutely Error:5.89374524886676604679e-17
+Related Error:3.81523884105232398836e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FD0
+Origin Value:1.54550787155542357354e+00
+ShadowValue: higher=1.54550787155542357354e+00 remainder=3.11709650116950186718e-17
+Absolutely Error:3.11709650116950186718e-17
+Related Error:2.01687520234523713715e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FD8
+Origin Value:1.54621605332245004583e+00
+ShadowValue: higher=1.54621605332245004583e+00 remainder=-5.21065360058245546709e-17
+Absolutely Error:5.21065360058245546709e-17
+Related Error:3.36993888362884439274e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FE0
+Origin Value:1.54691538271589412723e+00
+ShadowValue: higher=1.54691538271589412723e+00 remainder=5.89051269647353014725e-17
+Absolutely Error:5.89051269647353014725e-17
+Related Error:3.80790879856120729675e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FE8
+Origin Value:1.54760605158596042941e+00
+ShadowValue: higher=1.54760605158596042941e+00 remainder=-5.21276832298392078563e-17
+Absolutely Error:5.21276832298392078563e-17
+Related Error:3.36827858591142354744e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FF0
+Origin Value:1.54828824589775515541e+00
+ShadowValue: higher=1.54828824589775515541e+00 remainder=3.11286648156405317027e-17
+Absolutely Error:3.11286648156405317027e-17
+Related Error:2.01052129008387402689e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10F9FF8
+Origin Value:1.54896214596383563489e+00
+ShadowValue: higher=1.54896214596383541284e+00 remainder=5.88739878172662532142e-17
+Absolutely Error:1.63170617107765054871e-16
+Related Error:1.05341901048351836142e-16
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA000
+Origin Value:1.54962792666554860510e+00
+ShadowValue: higher=1.54962792666554860510e+00 remainder=3.35270749879056807180e-18
+Absolutely Error:3.35270749879056807180e-18
+Related Error:2.16355645190574352820e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA008
+Origin Value:1.55028575766380094514e+00
+ShadowValue: higher=1.55028575766380094514e+00 remainder=-2.44128762584663003652e-17
+Absolutely Error:2.44128762584663003652e-17
+Related Error:1.57473395712898878559e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA010
+Origin Value:1.55093580359984861694e+00
+ShadowValue: higher=1.55093580359984861694e+00 remainder=5.88439608875551329167e-17
+Absolutely Error:5.88439608875551329167e-17
+Related Error:3.79409391097771400789e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA018
+Origin Value:1.55157822428666736236e+00
+ShadowValue: higher=1.55157822428666736236e+00 remainder=3.32303596482412688651e-18
+Absolutely Error:3.32303596482412688651e-18
+Related Error:2.14171345847024959720e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA020
+Origin Value:1.55221317489142029977e+00
+ShadowValue: higher=1.55221317489142029977e+00 remainder=3.31337592205325387680e-18
+Absolutely Error:3.31337592205325387680e-18
+Related Error:2.13461396646438690091e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA028
+Origin Value:1.55284080610951291668e+00
+ShadowValue: higher=1.55284080610951291668e+00 remainder=-5.22073239959303175719e-17
+Absolutely Error:5.22073239959303175719e-17
+Related Error:3.36205255493836107724e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA030
+Origin Value:1.55346126433069020578e+00
+ShadowValue: higher=1.55346126433069020578e+00 remainder=-2.44611879381335405272e-17
+Absolutely Error:2.44611879381335405272e-17
+Related Error:1.57462490374181681600e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA038
+Origin Value:1.55407469179760604483e+00
+ShadowValue: higher=1.55407469179760604483e+00 remainder=-7.99816717623881727922e-17
+Absolutely Error:7.99816717623881727922e-17
+Related Error:5.14657835846184257239e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA040
+Origin Value:1.55468122675726450055e+00
+ShadowValue: higher=1.55468122675726450055e+00 remainder=-7.99908994938187274422e-17
+Absolutely Error:7.99908994938187274422e-17
+Related Error:5.14516404502180705543e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA048
+Origin Value:1.55528100360571275296e+00
+ShadowValue: higher=1.55528100360571275296e+00 remainder=-2.44888731771064115135e-17
+Absolutely Error:2.44888731771064115135e-17
+Related Error:1.57456261089360734945e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA050
+Origin Value:1.55587415302633780279e+00
+ShadowValue: higher=1.55587415302633758074e+00 remainder=8.65244051995514324187e-17
+Absolutely Error:1.35520199725479875666e-16
+Related Error:8.71022887435201312736e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA058
+Origin Value:1.55646080212210047300e+00
+ShadowValue: higher=1.55646080212210047300e+00 remainder=-2.45068224538596044703e-17
+Absolutely Error:2.45068224538596044703e-17
+Related Error:1.57452230216441410775e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA060
+Origin Value:1.55704107454202111960e+00
+ShadowValue: higher=1.55704107454202111960e+00 remainder=3.09955006002877006380e-17
+Absolutely Error:3.09955006002877006380e-17
+Related Error:1.99066685568359426925e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA068
+Origin Value:1.55761509060220926237e+00
+ShadowValue: higher=1.55761509060220926237e+00 remainder=-2.45243836247669339373e-17
+Absolutely Error:2.45243836247669339373e-17
+Related Error:1.57448292410195192109e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA070
+Origin Value:1.55818296740171513548e+00
+ShadowValue: higher=1.55818296740171513548e+00 remainder=8.64892792457383321452e-17
+Absolutely Error:8.64892792457383321452e-17
+Related Error:5.55064976675749581120e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA078
+Origin Value:1.55874481893346605865e+00
+ShadowValue: higher=1.55874481893346605865e+00 remainder=3.21400447435641854992e-18
+Absolutely Error:3.21400447435641854992e-18
+Related Error:2.06191830459813457818e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA080
+Origin Value:1.55930075619052921354e+00
+ShadowValue: higher=1.55930075619052921354e+00 remainder=8.64722733756314021398e-17
+Absolutely Error:8.64722733756314021398e-17
+Related Error:5.54558016035909973659e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA088
+Origin Value:1.55985088726793774683e+00
+ShadowValue: higher=1.55985088726793774683e+00 remainder=-5.23139743137830370135e-17
+Absolutely Error:5.23139743137830370135e-17
+Related Error:3.35378046329866849616e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA090
+Origin Value:1.56039531746029336290e+00
+ShadowValue: higher=1.56039531746029336290e+00 remainder=3.18889403861060429448e-18
+Absolutely Error:3.18889403861060429448e-18
+Related Error:2.04364496799494552478e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA098
+Origin Value:1.56093414935535701460e+00
+ShadowValue: higher=1.56093414935535701460e+00 remainder=-8.00860305154893657702e-17
+Absolutely Error:8.00860305154893657702e-17
+Related Error:5.13064760281935835144e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0A0
+Origin Value:1.56146748292381709611e+00
+ShadowValue: higher=1.56146748292381709611e+00 remainder=-2.45829933407327813400e-17
+Absolutely Error:2.45829933407327813400e-17
+Related Error:1.57435192276316946566e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0A8
+Origin Value:1.56199541560542343177e+00
+ShadowValue: higher=1.56199541560542343177e+00 remainder=-1.07857752075842459899e-16
+Absolutely Error:1.07857752075842459899e-16
+Related Error:6.90512603291074352882e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0B0
+Origin Value:1.56251804239165625887e+00
+ShadowValue: higher=1.56251804239165625887e+00 remainder=5.86677504528003522240e-17
+Absolutely Error:5.86677504528003522240e-17
+Related Error:3.75469267305233853057e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0B8
+Origin Value:1.56303545590509962437e+00
+ShadowValue: higher=1.56303545590509962437e+00 remainder=-1.07873575092157578570e-16
+Absolutely Error:1.07873575092157578570e-16
+Related Error:6.90154370360662975557e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0C0
+Origin Value:1.56354774647566752144e+00
+ShadowValue: higher=1.56354774647566752144e+00 remainder=-5.23702177724036657195e-17
+Absolutely Error:5.23702177724036657195e-17
+Related Error:3.34944793917866248120e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0C8
+Origin Value:1.56405500221383708670e+00
+ShadowValue: higher=1.56405500221383708670e+00 remainder=-8.01335107003554734941e-17
+Absolutely Error:8.01335107003554734941e-17
+Related Error:5.12344582427924401619e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0D0
+Origin Value:1.56455730908102097487e+00
+ShadowValue: higher=1.56455730908102097487e+00 remainder=-8.01411527213013153460e-17
+Absolutely Error:8.01411527213013153460e-17
+Related Error:5.12228936940469649163e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0D8
+Origin Value:1.56505475095721502399e+00
+ShadowValue: higher=1.56505475095721502399e+00 remainder=5.86291573511368387965e-17
+Absolutely Error:5.86291573511368387965e-17
+Related Error:3.74614097783340929015e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0E0
+Origin Value:1.56554740970604377992e+00
+ShadowValue: higher=1.56554740970604377992e+00 remainder=8.63772377308379348416e-17
+Absolutely Error:8.63772377308379348416e-17
+Related Error:5.51738243091958611562e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0E8
+Origin Value:1.56603536523732134178e+00
+ShadowValue: higher=1.56603536523732134178e+00 remainder=-5.24080640291917052404e-17
+Absolutely Error:5.24080640291917052404e-17
+Related Error:3.34654409424844910481e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0F0
+Origin Value:1.56651869556724077093e+00
+ShadowValue: higher=1.56651869556724054888e+00 remainder=8.63624607341839086219e-17
+Absolutely Error:1.35682144190847399463e-16
+Related Error:8.66138045940885116263e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA0F8
+Origin Value:1.56699747687629775683e+00
+ShadowValue: higher=1.56699747687629775683e+00 remainder=5.85996010119036014404e-17
+Absolutely Error:5.85996010119036014404e-17
+Related Error:3.73961042545632559912e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA100
+Origin Value:1.56747178356504934804e+00
+ShadowValue: higher=1.56747178356504934804e+00 remainder=-8.01854930966936495765e-17
+Absolutely Error:8.01854930966936495765e-17
+Related Error:5.11559403731786441947e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA108
+Origin Value:1.56794168830780011881e+00
+ShadowValue: higher=1.56794168830779989676e+00 remainder=1.14096387152798851748e-16
+Absolutely Error:1.07948217772232456337e-16
+Related Error:6.88470869658013231698e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA110
+Origin Value:1.56840726210431258281e+00
+ShadowValue: higher=1.56840726210431258281e+00 remainder=-8.01997253261503522253e-17
+Absolutely Error:8.01997253261503522253e-17
+Related Error:5.11345026664486229964e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA118
+Origin Value:1.56886857432962201209e+00
+ShadowValue: higher=1.56886857432962201209e+00 remainder=-5.24511680451664626647e-17
+Absolutely Error:5.24511680451664626647e-17
+Related Error:3.34324805171005901930e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA120
+Origin Value:1.56932569278204048224e+00
+ShadowValue: higher=1.56932569278204048224e+00 remainder=-2.47025469607540955029e-17
+Absolutely Error:2.47025469607540955029e-17
+Related Error:1.57408669687694758242e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA128
+Origin Value:1.56977868372942697128e+00
+ShadowValue: higher=1.56977868372942697128e+00 remainder=3.04613691889753846880e-18
+Absolutely Error:3.04613691889753846880e-18
+Related Error:1.94048814044323105412e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA130
+Origin Value:1.57022761195379789712e+00
+ShadowValue: higher=1.57022761195379767507e+00 remainder=8.63060338394624378762e-17
+Absolutely Error:1.35738571085568870208e-16
+Related Error:8.64451561367415526428e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA138
+Origin Value:1.57067254079434670544e+00
+ShadowValue: higher=1.57067254079434670544e+00 remainder=3.07881135279052510320e-17
+Absolutely Error:3.07881135279052510320e-17
+Related Error:1.96018665433181725454e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA140
+Origin Value:1.57111353218894311823e+00
+ShadowValue: higher=1.57111353218894311823e+00 remainder=5.85369799669438926797e-17
+Absolutely Error:5.85369799669438926797e-17
+Related Error:3.72582749544443456709e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA148
+Origin Value:1.57155064671417021849e+00
+ShadowValue: higher=1.57155064671417021849e+00 remainder=-2.47363970744270452909e-17
+Absolutely Error:2.47363970744270452909e-17
+Related Error:1.57401208329788181965e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA150
+Origin Value:1.57198394362396420831e+00
+ShadowValue: higher=1.57198394362396420831e+00 remainder=-5.24985648039145232333e-17
+Absolutely Error:5.24985648039145232333e-17
+Related Error:3.33963747001685364958e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA158
+Origin Value:1.57241348088691346163e+00
+ShadowValue: higher=1.57241348088691346163e+00 remainder=-5.25050997190728292584e-17
+Absolutely Error:5.25050997190728292584e-17
+Related Error:3.33914077672862133128e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA160
+Origin Value:1.57283931522227060640e+00
+ShadowValue: higher=1.57283931522227060640e+00 remainder=-8.02671539140779312551e-17
+Absolutely Error:8.02671539140779312551e-17
+Related Error:5.10332830170478866461e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA168
+Origin Value:1.57326150213473092698e+00
+ShadowValue: higher=1.57326150213473092698e+00 remainder=-2.47624257708542693166e-17
+Absolutely Error:2.47624257708542693166e-17
+Related Error:1.57395485348459678888e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA170
+Origin Value:1.57368009594802726880e+00
+ShadowValue: higher=1.57368009594802726880e+00 remainder=-1.08035521040906211315e-16
+Absolutely Error:1.08035521040906211315e-16
+Related Error:6.86515139379854081535e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA178
+Origin Value:1.57409514983738763050e+00
+ShadowValue: higher=1.57409514983738763050e+00 remainder=-1.08041835608202344674e-16
+Absolutely Error:1.08041835608202344674e-16
+Related Error:6.86374236140449628930e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA180
+Origin Value:1.57450671586090273912e+00
+ShadowValue: higher=1.57450671586090273912e+00 remainder=-2.47813702647466368167e-17
+Absolutely Error:2.47813702647466368167e-17
+Related Error:1.57391327805145467936e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA188
+Origin Value:1.57491484498984535279e+00
+ShadowValue: higher=1.57491484498984535279e+00 remainder=-2.47875794797818113600e-17
+Absolutely Error:2.47875794797818113600e-17
+Related Error:1.57389966566361460034e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA190
+Origin Value:1.57531958713798281302e+00
+ShadowValue: higher=1.57531958713798259097e+00 remainder=1.13984140912342904456e-16
+Absolutely Error:1.08060464012688403629e-16
+Related Error:6.85958994574625089293e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA198
+Origin Value:1.57572099118992281497e+00
+ShadowValue: higher=1.57572099118992281497e+00 remainder=-2.47998440665292404608e-17
+Absolutely Error:2.47998440665292404608e-17
+Related Error:1.57387279887674583790e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1A0
+Origin Value:1.57611910502853058702e+00
+ShadowValue: higher=1.57611910502853058702e+00 remainder=-2.48059009104472398490e-17
+Absolutely Error:2.48059009104472398490e-17
+Related Error:1.57385954090050874246e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1A8
+Origin Value:1.57651397556145100864e+00
+ShadowValue: higher=1.57651397556145100864e+00 remainder=2.94366720442741709085e-18
+Absolutely Error:2.94366720442741709085e-18
+Related Error:1.86720019616640296245e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1B0
+Origin Value:1.57690564874677319196e+00
+ShadowValue: higher=1.57690564874677319196e+00 remainder=2.93770834763746522505e-18
+Absolutely Error:2.93770834763746522505e-18
+Related Error:1.86295759037465165091e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1B8
+Origin Value:1.57729416961786794715e+00
+ShadowValue: higher=1.57729416961786794715e+00 remainder=-8.03349293972058336851e-17
+Absolutely Error:8.03349293972058336851e-17
+Related Error:5.09321158631231283227e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1C0
+Origin Value:1.57767958230743055026e+00
+ShadowValue: higher=1.57767958230743055026e+00 remainder=-5.25852173921282689662e-17
+Absolutely Error:5.25852173921282689662e-17
+Related Error:3.33307333008771747217e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1C8
+Origin Value:1.57806193007075945545e+00
+ShadowValue: higher=1.57806193007075945545e+00 remainder=-2.48354587577250727541e-17
+Absolutely Error:2.48354587577250727541e-17
+Related Error:1.57379493697129251967e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1D0
+Origin Value:1.57844125530829781923e+00
+ShadowValue: higher=1.57844125530829781923e+00 remainder=5.84254970921876358450e-17
+Absolutely Error:5.84254970921876358450e-17
+Related Error:3.70146794476529906392e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1D8
+Origin Value:1.57881759958746759054e+00
+ShadowValue: higher=1.57881759958746759054e+00 remainder=-1.08113682246708693040e-16
+Absolutely Error:1.08113682246708693040e-16
+Related Error:6.84776267220215553579e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1E0
+Origin Value:1.57919100366381925937e+00
+ShadowValue: higher=1.57919100366381925937e+00 remainder=-2.48526363131424169157e-17
+Absolutely Error:2.48526363131424169157e-17
+Related Error:1.57375746540366468140e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1E8
+Origin Value:1.57956150750152790607e+00
+ShadowValue: higher=1.57956150750152790607e+00 remainder=2.89730251295948891369e-18
+Absolutely Error:2.89730251295948891369e-18
+Related Error:1.83424481997051086034e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1F0
+Origin Value:1.57992915029325264875e+00
+ShadowValue: higher=1.57992915029325264875e+00 remainder=-2.48638663646741850668e-17
+Absolutely Error:2.48638663646741850668e-17
+Related Error:1.57373299682831796082e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA1F8
+Origin Value:1.58029397047938813259e+00
+ShadowValue: higher=1.58029397047938813259e+00 remainder=8.61528857785325864371e-17
+Absolutely Error:8.61528857785325864371e-17
+Related Error:5.45169996139375131201e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA200
+Origin Value:1.58065600576672826705e+00
+ShadowValue: higher=1.58065600576672826705e+00 remainder=5.83918022126251894084e-17
+Absolutely Error:5.83918022126251894084e-17
+Related Error:3.69414989723213690935e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA208
+Origin Value:1.58101529314656197300e+00
+ShadowValue: higher=1.58101529314656197300e+00 remainder=3.06307604529683042685e-17
+Absolutely Error:3.06307604529683042685e-17
+Related Error:1.93741076292857830206e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA210
+Origin Value:1.58137186891222403240e+00
+ShadowValue: higher=1.58137186891222403240e+00 remainder=2.86975994740060162656e-18
+Absolutely Error:2.86975994740060162656e-18
+Related Error:1.81472808756527288689e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA218
+Origin Value:1.58172576867611835993e+00
+ShadowValue: higher=1.58172576867611835993e+00 remainder=2.86437576974925278817e-18
+Absolutely Error:2.86437576974925278817e-18
+Related Error:1.81091806587098471814e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA220
+Origin Value:1.58207702738623345873e+00
+ShadowValue: higher=1.58207702738623345873e+00 remainder=-8.04076950741948258475e-17
+Absolutely Error:8.04076950741948258475e-17
+Related Error:5.08241341491679759541e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA228
+Origin Value:1.58242567934216693537e+00
+ShadowValue: higher=1.58242567934216671333e+00 remainder=1.13876029896915343314e-16
+Absolutely Error:1.08168575028115964770e-16
+Related Error:6.83561802871417831021e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA230
+Origin Value:1.58277175821067794814e+00
+ShadowValue: higher=1.58277175821067794814e+00 remainder=-5.26626889885862644828e-17
+Absolutely Error:5.26626889885862644828e-17
+Related Error:3.32724467159569388834e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA238
+Origin Value:1.58311529704078246539e+00
+ShadowValue: higher=1.58311529704078246539e+00 remainder=5.83543869259626337077e-17
+Absolutely Error:5.83543869259626337077e-17
+Related Error:3.68604782197738875598e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA240
+Origin Value:1.58345632827840798740e+00
+ShadowValue: higher=1.58345632827840798740e+00 remainder=3.05936229125008671085e-17
+Absolutely Error:3.05936229125008671085e-17
+Related Error:1.93207872968390477856e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA248
+Origin Value:1.58379488378062216469e+00
+ShadowValue: higher=1.58379488378062216469e+00 remainder=-5.26782546667534327602e-17
+Absolutely Error:5.26782546667534327602e-17
+Related Error:3.32607809295399356792e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA250
+Origin Value:1.58413099482945107788e+00
+ShadowValue: higher=1.58413099482945107788e+00 remainder=5.83389342529399188952e-17
+Absolutely Error:5.83389342529399188952e-17
+Related Error:3.68270897061898210418e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA258
+Origin Value:1.58446469214530116787e+00
+ShadowValue: higher=1.58446469214530116787e+00 remainder=3.05782818166583282923e-17
+Absolutely Error:3.05782818166583282923e-17
+Related Error:1.92988092244937108773e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA260
+Origin Value:1.58479600589999591875e+00
+ShadowValue: higher=1.58479600589999591875e+00 remainder=3.05732412591457130976e-17
+Absolutely Error:3.05732412591457130976e-17
+Related Error:1.92915940886558182385e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA268
+Origin Value:1.58512496572944372453e+00
+ShadowValue: higher=1.58512496572944350248e+00 remainder=1.13834963360783633473e-16
+Absolutely Error:1.08209641564247674611e-16
+Related Error:6.82656849798916134298e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA270
+Origin Value:1.58545160074594626565e+00
+ShadowValue: higher=1.58545160074594626565e+00 remainder=5.83188427536306537640e-17
+Absolutely Error:5.83188427536306537640e-17
+Related Error:3.67837420746189667220e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA278
+Origin Value:1.58577593955016293847e+00
+ShadowValue: higher=1.58577593955016293847e+00 remainder=5.83139083119630088583e-17
+Absolutely Error:5.83139083119630088583e-17
+Related Error:3.67731070055867515244e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA280
+Origin Value:1.58609801024273755488e+00
+ShadowValue: higher=1.58609801024273755488e+00 remainder=5.83090083770039319520e-17
+Absolutely Error:5.83090083770039319520e-17
+Related Error:3.67625506119134955356e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA288
+Origin Value:1.58641784043560418738e+00
+ShadowValue: higher=1.58641784043560418738e+00 remainder=-2.49625843182171199787e-17
+Absolutely Error:2.49625843182171199787e-17
+Related Error:1.57351888524922336522e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA290
+Origin Value:1.58673545726297837710e+00
+ShadowValue: higher=1.58673545726297837710e+00 remainder=-5.27229921083714461153e-17
+Absolutely Error:5.27229921083714461153e-17
+Related Error:3.32273359538554578363e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA298
+Origin Value:1.58705088739204680515e+00
+ShadowValue: higher=1.58705088739204658310e+00 remainder=1.13805662678974973837e-16
+Absolutely Error:1.08238942246056334247e-16
+Related Error:6.82013053935039015394e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2A0
+Origin Value:1.58736415703336319893e+00
+ShadowValue: higher=1.58736415703336297689e+00 remainder=8.60453210262539070353e-17
+Absolutely Error:1.35999283898777413375e-16
+Related Error:8.56761715931317947625e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2A8
+Origin Value:1.58767529195096113170e+00
+ShadowValue: higher=1.58767529195096113170e+00 remainder=5.82850118508976539979e-17
+Absolutely Error:5.82850118508976539979e-17
+Related Error:3.67109144712305023358e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2B0
+Origin Value:1.58798431747219370713e+00
+ShadowValue: higher=1.58798431747219370713e+00 remainder=2.76915915195075758470e-18
+Absolutely Error:2.76915915195075758470e-18
+Related Error:1.74382021376558527473e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2B8
+Origin Value:1.58829125849730501407e+00
+ShadowValue: higher=1.58829125849730501407e+00 remainder=-2.49910862181575051662e-17
+Absolutely Error:2.49910862181575051662e-17
+Related Error:1.57345739230484520080e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2C0
+Origin Value:1.58859613950874756227e+00
+ShadowValue: higher=1.58859613950874756227e+00 remainder=5.82710022149872545044e-17
+Absolutely Error:5.82710022149872545044e-17
+Related Error:3.66808156999593320106e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2C8
+Origin Value:1.58889898458024969585e+00
+ShadowValue: higher=1.58889898458024969585e+00 remainder=-1.08267058918044894580e-16
+Absolutely Error:1.08267058918044894580e-16
+Related Error:6.81396740565269728874e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2D0
+Origin Value:1.58919981738564075613e+00
+ShadowValue: higher=1.58919981738564053408e+00 remainder=8.60173935664120538207e-17
+Absolutely Error:1.36027211358619266590e-16
+Related Error:8.55947816445101186313e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2D8
+Origin Value:1.58949866120744509601e+00
+ShadowValue: higher=1.58949866120744509601e+00 remainder=8.60128470015630159902e-17
+Absolutely Error:8.60128470015630159902e-17
+Related Error:5.41131924805927869376e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2E0
+Origin Value:1.58979553894524916480e+00
+ShadowValue: higher=1.58979553894524916480e+00 remainder=2.74160350153280521483e-18
+Absolutely Error:2.74160350153280521483e-18
+Related Error:1.72450068852987457335e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2E8
+Origin Value:1.59009047312384765860e+00
+ShadowValue: higher=1.59009047312384765860e+00 remainder=2.73711641740606012890e-18
+Absolutely Error:2.73711641740606012890e-18
+Related Error:1.72135891867133643222e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2F0
+Origin Value:1.59038348590118050474e+00
+ShadowValue: higher=1.59038348590118028270e+00 remainder=1.13754961027704142867e-16
+Absolutely Error:1.08289643897327165218e-16
+Related Error:6.80902718478402471536e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA2F8
+Origin Value:1.59067459907606112424e+00
+ShadowValue: higher=1.59067459907606090219e+00 remainder=8.59949564601229634415e-17
+Absolutely Error:1.36049648464908356969e-16
+Related Error:8.55295285056619628854e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA300
+Origin Value:1.59096383409570751866e+00
+ShadowValue: higher=1.59096383409570751866e+00 remainder=-5.27873219960032989625e-17
+Absolutely Error:5.27873219960032989625e-17
+Related Error:3.31794606921452971598e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA308
+Origin Value:1.59125121206307884592e+00
+ShadowValue: higher=1.59125121206307884592e+00 remainder=-8.05472697367005726663e-17
+Absolutely Error:8.05472697367005726663e-17
+Related Error:5.06188269495612457572e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA310
+Origin Value:1.59153675374402392428e+00
+ShadowValue: higher=1.59153675374402392428e+00 remainder=5.82262641533604628167e-17
+Absolutely Error:5.82262641533604628167e-17
+Related Error:3.65849321521388666906e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA318
+Origin Value:1.59182047957424965823e+00
+ShadowValue: higher=1.59182047957424965823e+00 remainder=2.71079636009818166127e-18
+Absolutely Error:2.71079636009818166127e-18
+Related Error:1.70295356472811235083e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA320
+Origin Value:1.59210240966611094038e+00
+ShadowValue: higher=1.59210240966611094038e+00 remainder=-1.08315795344329189747e-16
+Absolutely Error:1.08315795344329189747e-16
+Related Error:6.80331834728173883277e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA328
+Origin Value:1.59238256381523091143e+00
+ShadowValue: higher=1.59238256381523068939e+00 remainder=1.13724547357715521825e-16
+Absolutely Error:1.08320057567315786259e-16
+Related Error:6.80238907588820546250e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA330
+Origin Value:1.59266096150695490863e+00
+ShadowValue: higher=1.59266096150695490863e+00 remainder=8.59647362415780033929e-17
+Absolutely Error:8.59647362415780033929e-17
+Related Error:5.39755405069006625877e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA338
+Origin Value:1.59293762192264365396e+00
+ShadowValue: higher=1.59293762192264365396e+00 remainder=-2.50617752907905740844e-17
+Absolutely Error:2.50617752907905740844e-17
+Related Error:1.57330550461489610539e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA340
+Origin Value:1.59321256394580812454e+00
+ShadowValue: higher=1.59321256394580812454e+00 remainder=5.82007686296080286508e-17
+Absolutely Error:5.82007686296080286508e-17
+Related Error:3.65304479431582475128e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA348
+Origin Value:1.59348580616809609722e+00
+ShadowValue: higher=1.59348580616809609722e+00 remainder=-8.05812665145104121329e-17
+Absolutely Error:8.05812665145104121329e-17
+Related Error:5.05691774615091421534e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA350
+Origin Value:1.59375736689512770283e+00
+ShadowValue: higher=1.59375736689512770283e+00 remainder=-1.08340973614097889087e-16
+Absolutely Error:1.08340973614097889087e-16
+Related Error:6.79783358900871680139e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA358
+Origin Value:1.59402726415219087031e+00
+ShadowValue: higher=1.59402726415219087031e+00 remainder=3.04327982878694218647e-17
+Absolutely Error:3.04327982878694218647e-17
+Related Error:1.90917677333803927777e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA360
+Origin Value:1.59429551568979688270e+00
+ShadowValue: higher=1.59429551568979688270e+00 remainder=-8.05935853130957890798e-17
+Absolutely Error:8.05935853130957890798e-17
+Related Error:5.05512212259003412768e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA368
+Origin Value:1.59456213898909959781e+00
+ShadowValue: higher=1.59456213898909959781e+00 remainder=-5.28420660641443677488e-17
+Absolutely Error:5.28420660641443677488e-17
+Related Error:3.31389193133887597094e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA370
+Origin Value:1.59482715126718632703e+00
+ShadowValue: higher=1.59482715126718632703e+00 remainder=-2.50905223053590607043e-17
+Absolutely Error:2.50905223053590607043e-17
+Related Error:1.57324398982191446339e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA378
+Origin Value:1.59509056948223948424e+00
+ShadowValue: higher=1.59509056948223926220e+00 remainder=8.59277725521476548021e-17
+Absolutely Error:1.36116832372883653283e-16
+Related Error:8.53348612154773741069e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA380
+Origin Value:1.59535241033857477788e+00
+ShadowValue: higher=1.59535241033857477788e+00 remainder=2.65706209794968155484e-18
+Absolutely Error:2.65706209794968155484e-18
+Related Error:1.66550166642227020631e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA388
+Origin Value:1.59561269029156083121e+00
+ShadowValue: higher=1.59561269029156083121e+00 remainder=3.04086778536155921262e-17
+Absolutely Error:3.04086778536155921262e-17
+Related Error:1.90576811269024929849e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA390
+Origin Value:1.59587142555241978670e+00
+ShadowValue: higher=1.59587142555241978670e+00 remainder=-5.28619853525210190774e-17
+Absolutely Error:5.28619853525210190774e-17
+Related Error:3.31242132079797999106e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA398
+Origin Value:1.59612863209291577782e+00
+ShadowValue: higher=1.59612863209291577782e+00 remainder=-2.51103228384208570196e-17
+Absolutely Error:2.51103228384208570196e-17
+Related Error:1.57320170401899687829e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3A0
+Origin Value:1.59638432564993326679e+00
+ShadowValue: higher=1.59638432564993304474e+00 remainder=8.59080895408685795521e-17
+Absolutely Error:1.36136515384162728533e-16
+Related Error:8.52780331131964211327e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3A8
+Origin Value:1.59663852172994680245e+00
+ShadowValue: higher=1.59663852172994680245e+00 remainder=3.03930710087739043345e-17
+Absolutely Error:3.03930710087739043345e-17
+Related Error:1.90356618577905913158e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3B0
+Origin Value:1.59689123561338885970e+00
+ShadowValue: higher=1.59689123561338885970e+00 remainder=-2.51219249734056011561e-17
+Absolutely Error:2.51219249734056011561e-17
+Related Error:1.57317695865215954067e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3B8
+Origin Value:1.59714248235891309591e+00
+ShadowValue: higher=1.59714248235891309591e+00 remainder=5.81409794433745463334e-17
+Absolutely Error:5.81409794433745463334e-17
+Related Error:3.64031262617864462460e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3C0
+Origin Value:1.59739227680756235017e+00
+ShadowValue: higher=1.59739227680756212813e+00 remainder=8.58927547239225692367e-17
+Absolutely Error:1.36151850201108738848e-16
+Related Error:8.52338227609391105238e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3C8
+Origin Value:1.59764063358683738869e+00
+ShadowValue: higher=1.59764063358683738869e+00 remainder=-1.08400053048075620775e-16
+Absolutely Error:1.08400053048075620775e-16
+Related Error:6.78500851625865301897e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3D0
+Origin Value:1.59788756711467572202e+00
+ShadowValue: higher=1.59788756711467549998e+00 remainder=8.58852194518637708743e-17
+Absolutely Error:1.36159385473167537210e-16
+Related Error:8.52121189721953660470e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3D8
+Origin Value:1.59813309160333694159e+00
+ShadowValue: higher=1.59813309160333694159e+00 remainder=-8.06519696144631201968e-17
+Absolutely Error:8.06519696144631201968e-17
+Related Error:5.04663660606317376932e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3E0
+Origin Value:1.59837722106320123672e+00
+ShadowValue: higher=1.59837722106320123672e+00 remainder=-1.08411259378887657436e-16
+Absolutely Error:1.08411259378887657436e-16
+Related Error:6.78258285655342044689e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3E8
+Origin Value:1.59861996930648109227e+00
+ShadowValue: higher=1.59861996930648109227e+00 remainder=-8.06593768984334848935e-17
+Absolutely Error:8.06593768984334848935e-17
+Related Error:5.04556295098862190909e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3F0
+Origin Value:1.59886134995084994159e+00
+ShadowValue: higher=1.59886134995084994159e+00 remainder=8.58704044666088926494e-17
+Absolutely Error:8.58704044666088926494e-17
+Related Error:5.37072238748210441438e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA3F8
+Origin Value:1.59910137642298977312e+00
+ShadowValue: higher=1.59910137642298977312e+00 remainder=-1.08422276569352468819e-16
+Absolutely Error:1.08422276569352468819e-16
+Related Error:6.78020031549725324744e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA400
+Origin Value:1.59934006196205724670e+00
+ShadowValue: higher=1.59934006196205724670e+00 remainder=-2.51591810482711130967e-17
+Absolutely Error:2.51591810482711130967e-17
+Related Error:1.57309765738038453087e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA408
+Origin Value:1.59957741962307631312e+00
+ShadowValue: higher=1.59957741962307609107e+00 remainder=8.58595102905755889900e-17
+Absolutely Error:1.36185094634455706769e-16
+Related Error:8.51381702215740905781e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA410
+Origin Value:1.59981346228025178569e+00
+ShadowValue: higher=1.59981346228025178569e+00 remainder=2.58919232629011374764e-18
+Absolutely Error:2.58919232629011374764e-18
+Related Error:1.61843389078604003813e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA418
+Origin Value:1.60004820263021341198e+00
+ShadowValue: higher=1.60004820263021341198e+00 remainder=-5.29255302092608442669e-17
+Absolutely Error:5.29255302092608442669e-17
+Related Error:3.30774598679340172235e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA420
+Origin Value:1.60028165319518533849e+00
+ShadowValue: higher=1.60028165319518533849e+00 remainder=-1.08440233122217416807e-16
+Absolutely Error:1.08440233122217416807e-16
+Related Error:6.77632171222493117486e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA428
+Origin Value:1.60051382632608829581e+00
+ShadowValue: higher=1.60051382632608829581e+00 remainder=5.80896883245466358794e-17
+Absolutely Error:5.80896883245466358794e-17
+Related Error:3.62943995665998402649e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA430
+Origin Value:1.60074473420557428227e+00
+ShadowValue: higher=1.60074473420557428227e+00 remainder=3.03305997112525967375e-17
+Absolutely Error:3.03305997112525967375e-17
+Related Error:1.89478053952838515025e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA438
+Origin Value:1.60097438885099352390e+00
+ShadowValue: higher=1.60097438885099352390e+00 remainder=-2.51840454511562098160e-17
+Absolutely Error:2.51840454511562098160e-17
+Related Error:1.57304486733423625526e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA440
+Origin Value:1.60120280211729903996e+00
+ShadowValue: higher=1.60120280211729903996e+00 remainder=-2.51875204961525121922e-17
+Absolutely Error:2.51875204961525121922e-17
+Related Error:1.57303749798879963911e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA448
+Origin Value:1.60142998569988814772e+00
+ShadowValue: higher=1.60142998569988814772e+00 remainder=-5.29465524485550592753e-17
+Absolutely Error:5.29465524485550592753e-17
+Related Error:3.30620463718963797629e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA450
+Origin Value:1.60165595113738268296e+00
+ShadowValue: higher=1.60165595113738268296e+00 remainder=-5.29499902526528867973e-17
+Absolutely Error:5.29499902526528867973e-17
+Related Error:3.30595283057210568441e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA458
+Origin Value:1.60188070981435015661e+00
+ShadowValue: higher=1.60188070981435015661e+00 remainder=2.55774153397983223728e-18
+Absolutely Error:2.55774153397983223728e-18
+Related Error:1.59671161423515829994e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA460
+Origin Value:1.60210427296396717978e+00
+ShadowValue: higher=1.60210427296396717978e+00 remainder=2.55434027792758883254e-18
+Absolutely Error:2.55434027792758883254e-18
+Related Error:1.59436581066096339026e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA468
+Origin Value:1.60232665167062582334e+00
+ShadowValue: higher=1.60232665167062582334e+00 remainder=-2.52046185738169752428e-17
+Absolutely Error:2.52046185738169752428e-17
+Related Error:1.57300126959368798503e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA470
+Origin Value:1.60254785687248535453e+00
+ShadowValue: higher=1.60254785687248535453e+00 remainder=8.58143185061081150417e-17
+Absolutely Error:8.58143185061081150417e-17
+Related Error:5.35486775874402826286e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA478
+Origin Value:1.60276789936397112690e+00
+ShadowValue: higher=1.60276789936397090486e+00 remainder=1.13566546428446790723e-16
+Absolutely Error:1.08478058496584517361e-16
+Related Error:6.76817014738266469328e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA480
+Origin Value:1.60298678979821862534e+00
+ShadowValue: higher=1.60298678979821862534e+00 remainder=3.02964894154949521211e-17
+Absolutely Error:3.02964894154949521211e-17
+Related Error:1.89000243846729552263e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA488
+Origin Value:1.60320453868947021547e+00
+ShadowValue: higher=1.60320453868947021547e+00 remainder=5.80487522323217867726e-17
+Absolutely Error:5.80487522323217867726e-17
+Related Error:3.62079515317324276046e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA490
+Origin Value:1.60342115641541882454e+00
+ShadowValue: higher=1.60342115641541882454e+00 remainder=2.53430541164026901767e-18
+Absolutely Error:2.53430541164026901767e-18
+Related Error:1.58056129015156516566e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA498
+Origin Value:1.60363665321950454867e+00
+ShadowValue: higher=1.60363665321950454867e+00 remainder=3.02866024913817098655e-17
+Absolutely Error:3.02866024913817098655e-17
+Related Error:1.88861999571894928942e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4A0
+Origin Value:1.60385103921316418685e+00
+ShadowValue: higher=1.60385103921316418685e+00 remainder=-2.52278103760612398336e-17
+Absolutely Error:2.52278103760612398336e-17
+Related Error:1.57295221060166481325e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4A8
+Origin Value:1.60406432437803347923e+00
+ShadowValue: higher=1.60406432437803347923e+00 remainder=8.57912471981125403351e-17
+Absolutely Error:8.57912471981125403351e-17
+Related Error:5.34836701336011508026e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4B0
+Origin Value:1.60427651856810604691e+00
+ShadowValue: higher=1.60427651856810582487e+00 remainder=1.13543594523325656240e-16
+Absolutely Error:1.08501010401705651845e-16
+Related Error:6.76323620933802857251e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4B8
+Origin Value:1.60448763151184548015e+00
+ShadowValue: higher=1.60448763151184525810e+00 remainder=1.13540382682828545314e-16
+Absolutely Error:1.08504222242202762771e-16
+Related Error:6.76254650464108115332e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4C0
+Origin Value:1.60469767281425790273e+00
+ShadowValue: higher=1.60469767281425790273e+00 remainder=-2.52406909320235520953e-17
+Absolutely Error:2.52406909320235520953e-17
+Related Error:1.57292500385804055472e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4C8
+Origin Value:1.60490665195892034944e+00
+ShadowValue: higher=1.60490665195892034944e+00 remainder=8.57784321532924488564e-17
+Absolutely Error:8.57784321532924488564e-17
+Related Error:5.34476145691045839370e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4D0
+Origin Value:1.60511457830996895346e+00
+ShadowValue: higher=1.60511457830996895346e+00 remainder=5.80196931775071834866e-17
+Absolutely Error:5.80196931775071834866e-17
+Related Error:3.61467610858013237057e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4D8
+Origin Value:1.60532146111404694366e+00
+ShadowValue: higher=1.60532146111404694366e+00 remainder=-2.52501811531696151518e-17
+Absolutely Error:2.52501811531696151518e-17
+Related Error:1.57290497665475146094e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4E0
+Origin Value:1.60552730950221400619e+00
+ShadowValue: higher=1.60552730950221400619e+00 remainder=5.80134139473747676458e-17
+Absolutely Error:5.80134139473747676458e-17
+Related Error:3.61335578685120901719e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4E8
+Origin Value:1.60573213249181812046e+00
+ShadowValue: higher=1.60573213249181812046e+00 remainder=-5.30120046612240912177e-17
+Absolutely Error:5.30120046612240912177e-17
+Related Error:3.30142267122466084969e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4F0
+Origin Value:1.60593593898832853739e+00
+ShadowValue: higher=1.60593593898832853739e+00 remainder=2.49604588872319705428e-18
+Absolutely Error:2.49604588872319705428e-18
+Related Error:1.55426242611869063372e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA4F8
+Origin Value:1.60613873778713456275e+00
+ShadowValue: higher=1.60613873778713456275e+00 remainder=2.49296053837360502997e-18
+Absolutely Error:2.49296053837360502997e-18
+Related Error:1.55214520372523582348e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA500
+Origin Value:1.60634053757530748108e+00
+ShadowValue: higher=1.60634053757530748108e+00 remainder=-5.30212608444366592880e-17
+Absolutely Error:5.30212608444366592880e-17
+Related Error:3.30074847793293341765e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA508
+Origin Value:1.60654134693332828476e+00
+ShadowValue: higher=1.60654134693332806272e+00 remainder=8.57535621504104844302e-17
+Absolutely Error:1.36291042774620823655e-16
+Related Error:8.48350669808667750696e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA510
+Origin Value:1.60674117433678165234e+00
+ShadowValue: higher=1.60674117433678165234e+00 remainder=-2.52717804560938594913e-17
+Absolutely Error:2.52717804560938594913e-17
+Related Error:1.57285945364071187095e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA518
+Origin Value:1.60694002815801750828e+00
+ShadowValue: higher=1.60694002815801750828e+00 remainder=-2.52748057881494724735e-17
+Absolutely Error:2.52748057881494724735e-17
+Related Error:1.57285308382797267158e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA520
+Origin Value:1.60713791666777883194e+00
+ShadowValue: higher=1.60713791666777883194e+00 remainder=-8.07889676653596703912e-17
+Absolutely Error:8.07889676653596703912e-17
+Related Error:5.02688455218993182921e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA528
+Origin Value:1.60733484803679926856e+00
+ShadowValue: higher=1.60733484803679926856e+00 remainder=3.02303387129985231743e-17
+Absolutely Error:3.02303387129985231743e-17
+Related Error:1.88077417408836103351e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA530
+Origin Value:1.60753083033737009799e+00
+ShadowValue: higher=1.60753083033737009799e+00 remainder=-2.52837941634324468602e-17
+Absolutely Error:2.52837941634324468602e-17
+Related Error:1.57283416817120544377e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA538
+Origin Value:1.60772587154487545114e+00
+ShadowValue: higher=1.60772587154487545114e+00 remainder=-8.07979127222154068812e-17
+Absolutely Error:8.07979127222154068812e-17
+Related Error:5.02560257020533661010e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA540
+Origin Value:1.60791997953929999277e+00
+ShadowValue: higher=1.60791997953929999277e+00 remainder=-5.30452902363485183493e-17
+Absolutely Error:5.30452902363485183493e-17
+Related Error:3.29900062884640624628e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA548
+Origin Value:1.60811316210670707250e+00
+ShadowValue: higher=1.60811316210670707250e+00 remainder=3.02184975600833199919e-17
+Absolutely Error:3.02184975600833199919e-17
+Related Error:1.87912755595480636241e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA550
+Origin Value:1.60830542694068889809e+00
+ShadowValue: higher=1.60830542694068867604e+00 remainder=1.13482299318773127624e-16
+Absolutely Error:1.08562305606258180461e-16
+Related Error:6.75010503525843971143e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA558
+Origin Value:1.60849678164378828704e+00
+ShadowValue: higher=1.60849678164378806500e+00 remainder=1.13479388077170213288e-16
+Absolutely Error:1.08565216847861094797e-16
+Related Error:6.74948300094911615179e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA560
+Origin Value:1.60868723372889577128e+00
+ShadowValue: higher=1.60868723372889554923e+00 remainder=1.13476490567861362763e-16
+Absolutely Error:1.08568114357169945321e-16
+Related Error:6.74886404770626823165e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA568
+Origin Value:1.60887679062061828006e+00
+ShadowValue: higher=1.60887679062061828006e+00 remainder=-5.30598470158837932626e-17
+Absolutely Error:5.30598470158837932626e-17
+Related Error:3.29794346746814280784e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA570
+Origin Value:1.60906545965662339803e+00
+ShadowValue: higher=1.60906545965662339803e+00 remainder=-2.53071417825235263880e-17
+Absolutely Error:2.53071417825235263880e-17
+Related Error:1.57278509899305804971e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA578
+Origin Value:1.60925324808895808815e+00
+ShadowValue: higher=1.60925324808895808815e+00 remainder=-8.08211499986785247114e-17
+Absolutely Error:8.08211499986785247114e-17
+Related Error:5.02227664257669431069e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA580
+Origin Value:1.60944016308534276760e+00
+ShadowValue: higher=1.60944016308534276760e+00 remainder=-1.08579569310881752832e-16
+Absolutely Error:1.08579569310881752832e-16
+Related Error:6.74641852498148336403e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA588
+Origin Value:1.60962621173044162504e+00
+ShadowValue: higher=1.60962621173044162504e+00 remainder=8.57066294824841786048e-17
+Absolutely Error:8.57066294824841786048e-17
+Related Error:5.32462933679146392115e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA590
+Origin Value:1.60981140102711028916e+00
+ShadowValue: higher=1.60981140102711028916e+00 remainder=2.43708519355842260000e-18
+Absolutely Error:2.43708519355842260000e-18
+Related Error:1.51389485252961035653e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA598
+Origin Value:1.60999573789761818432e+00
+ShadowValue: higher=1.60999573789761818432e+00 remainder=-8.08324461266842425460e-17
+Absolutely Error:8.08324461266842425460e-17
+Related Error:5.02066211878534129555e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5A0
+Origin Value:1.61017922918485067996e+00
+ShadowValue: higher=1.61017922918485067996e+00 remainder=2.43148911142304807811e-18
+Absolutely Error:2.43148911142304807811e-18
+Related Error:1.51007357898535525698e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5A8
+Origin Value:1.61036188165348903567e+00
+ShadowValue: higher=1.61036188165348903567e+00 remainder=5.79398614955610462284e-17
+Absolutely Error:5.79398614955610462284e-17
+Related Error:3.59794044777497466473e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5B0
+Origin Value:1.61054370199116769768e+00
+ShadowValue: higher=1.61054370199116769768e+00 remainder=-1.08596358385417302190e-16
+Absolutely Error:1.08596358385417302190e-16
+Related Error:6.74283835025128999579e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5B8
+Origin Value:1.61072469680961072314e+00
+ShadowValue: higher=1.61072469680961072314e+00 remainder=-2.53323851664102408138e-17
+Absolutely Error:2.53323851664102408138e-17
+Related Error:1.57273215072609983532e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5C0
+Origin Value:1.61090487264574933057e+00
+ShadowValue: higher=1.61090487264574933057e+00 remainder=5.79316005124701203055e-17
+Absolutely Error:5.79316005124701203055e-17
+Related Error:3.59621486632685440563e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5C8
+Origin Value:1.61108423596281746804e+00
+ShadowValue: higher=1.61108423596281746804e+00 remainder=-5.30934307565092655066e-17
+Absolutely Error:5.30934307565092655066e-17
+Related Error:3.29550929562534811807e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5D0
+Origin Value:1.61126279315142761916e+00
+ShadowValue: higher=1.61126279315142761916e+00 remainder=8.56817307794883778424e-17
+Absolutely Error:8.56817307794883778424e-17
+Related Error:5.31767574747417033964e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5D8
+Origin Value:1.61144055053062973393e+00
+ShadowValue: higher=1.61144055053062951188e+00 remainder=1.13434602021150126006e-16
+Absolutely Error:1.08610002903881182079e-16
+Related Error:6.73993234613074096444e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5E0
+Origin Value:1.61161751434894706669e+00
+ShadowValue: higher=1.61161751434894706669e+00 remainder=3.01651828734118797141e-17
+Absolutely Error:3.01651828734118797141e-17
+Related Error:1.87173337375883843937e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5E8
+Origin Value:1.61179369078539891369e+00
+ShadowValue: higher=1.61179369078539869165e+00 remainder=1.13429229398556093542e-16
+Absolutely Error:1.08615375526475214543e-16
+Related Error:6.73878897450881963298e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5F0
+Origin Value:1.61196908595049959168e+00
+ShadowValue: higher=1.61196908595049959168e+00 remainder=-5.31068927308153455548e-17
+Absolutely Error:5.31068927308153455548e-17
+Related Error:3.29453543456143913458e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA5F8
+Origin Value:1.61214370588724453803e+00
+ShadowValue: higher=1.61214370588724453803e+00 remainder=-5.31095493722059991002e-17
+Absolutely Error:5.31095493722059991002e-17
+Related Error:3.29434337511351800778e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA600
+Origin Value:1.61231755657207576071e+00
+ShadowValue: higher=1.61231755657207576071e+00 remainder=5.79101081522016432807e-17
+Absolutely Error:5.79101081522016432807e-17
+Related Error:3.59173091654000555443e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA608
+Origin Value:1.61249064391583241118e+00
+ShadowValue: higher=1.61249064391583241118e+00 remainder=5.79074748274496555304e-17
+Absolutely Error:5.79074748274496555304e-17
+Related Error:3.59118206644752895440e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA610
+Origin Value:1.61266297376468314972e+00
+ShadowValue: higher=1.61266297376468314972e+00 remainder=-2.53618738197757785385e-17
+Absolutely Error:2.53618738197757785385e-17
+Related Error:1.57267043594172180521e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA618
+Origin Value:1.61283455190104318966e+00
+ShadowValue: higher=1.61283455190104318966e+00 remainder=2.39109143195493932212e-18
+Absolutely Error:2.39109143195493932212e-18
+Related Error:1.48253981112728950765e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA620
+Origin Value:1.61300538404447557639e+00
+ShadowValue: higher=1.61300538404447557639e+00 remainder=-2.53670831981482378969e-17
+Absolutely Error:2.53670831981482378969e-17
+Related Error:1.57265954900549713965e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA628
+Origin Value:1.61317547585257581311e+00
+ShadowValue: higher=1.61317547585257581311e+00 remainder=-2.53696709492723813461e-17
+Absolutely Error:2.53696709492723813461e-17
+Related Error:1.57265414265390515435e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA630
+Origin Value:1.61334483292184227565e+00
+ShadowValue: higher=1.61334483292184227565e+00 remainder=-5.31278231378195911968e-17
+Absolutely Error:5.31278231378195911968e-17
+Related Error:3.29302341655023887223e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA638
+Origin Value:1.61351346078853086219e+00
+ShadowValue: higher=1.61351346078853086219e+00 remainder=-2.53748130011308966145e-17
+Absolutely Error:2.53748130011308966145e-17
+Related Error:1.57264340321834804811e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA640
+Origin Value:1.61368136492949565408e+00
+ShadowValue: higher=1.61368136492949565408e+00 remainder=-1.08644094316303809585e-16
+Absolutely Error:1.08644094316303809585e-16
+Related Error:6.73268568860560955229e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA648
+Origin Value:1.61384855076301425569e+00
+ShadowValue: higher=1.61384855076301425569e+00 remainder=-5.31354866251109638881e-17
+Absolutely Error:5.31354866251109638881e-17
+Related Error:3.29247044897669890464e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA650
+Origin Value:1.61401502364960025560e+00
+ShadowValue: higher=1.61401502364960025560e+00 remainder=8.56398587596357614559e-17
+Absolutely Error:8.56398587596357614559e-17
+Related Error:5.30601373003254130579e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA658
+Origin Value:1.61418078889280125487e+00
+ShadowValue: higher=1.61418078889280103283e+00 remainder=1.13392912447846603755e-16
+Absolutely Error:1.08651692477184704330e-16
+Related Error:6.73107332368334522849e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA660
+Origin Value:1.61434585173998224050e+00
+ShadowValue: higher=1.61434585173998224050e+00 remainder=-8.08986281028267037078e-17
+Absolutely Error:8.08986281028267037078e-17
+Related Error:5.01123275508975605446e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA668
+Origin Value:1.61451021738309830056e+00
+ShadowValue: higher=1.61451021738309830056e+00 remainder=-5.31455531213111794420e-17
+Absolutely Error:5.31455531213111794420e-17
+Related Error:3.29174461388376327585e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA670
+Origin Value:1.61467389095945201838e+00
+ShadowValue: higher=1.61467389095945201838e+00 remainder=3.01186836204615510188e-17
+Absolutely Error:3.01186836204615510188e-17
+Related Error:1.86531062334604250450e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA678
+Origin Value:1.61483687755243954243e+00
+ShadowValue: higher=1.61483687755243954243e+00 remainder=-1.08661674111135672382e-16
+Absolutely Error:1.08661674111135672382e-16
+Related Error:6.72895669040150647927e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA680
+Origin Value:1.61499918219228266736e+00
+ShadowValue: higher=1.61499918219228244531e+00 remainder=8.56248859199463971249e-17
+Absolutely Error:1.36419719005084910960e-16
+Related Error:8.44704570189947736982e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA688
+Origin Value:1.61516080985675070103e+00
+ShadowValue: higher=1.61516080985675047899e+00 remainder=1.13378002556656281182e-16
+Absolutely Error:1.08666602368375026903e-16
+Related Error:6.72791227382570864434e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA690
+Origin Value:1.61532176547186878679e+00
+ShadowValue: higher=1.61532176547186878679e+00 remainder=-2.54023242759498461535e-17
+Absolutely Error:2.54023242759498461535e-17
+Related Error:1.57258602087425625151e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA698
+Origin Value:1.61548205391261512354e+00
+ShadowValue: higher=1.61548205391261512354e+00 remainder=3.01063883511367353555e-17
+Absolutely Error:3.01063883511367353555e-17
+Related Error:1.86361639104690744650e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6A0
+Origin Value:1.61564168000360641742e+00
+ShadowValue: higher=1.61564168000360641742e+00 remainder=5.78595354394837187240e-17
+Absolutely Error:5.78595354394837187240e-17
+Related Error:3.58121086844915782047e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6A8
+Origin Value:1.61580064851977223128e+00
+ShadowValue: higher=1.61580064851977223128e+00 remainder=-8.09207611616985365379e-17
+Absolutely Error:8.09207611616985365379e-17
+Related Error:5.00809064755789561127e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6B0
+Origin Value:1.61595896418701778785e+00
+ShadowValue: higher=1.61595896418701778785e+00 remainder=-1.08678745368020081787e-16
+Absolutely Error:1.08678745368020081787e-16
+Related Error:6.72534066622761737334e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6B8
+Origin Value:1.61611663168287678083e+00
+ShadowValue: higher=1.61611663168287678083e+00 remainder=-5.31699928662731391939e-17
+Absolutely Error:5.31699928662731391939e-17
+Related Error:3.28998488252093193154e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6C0
+Origin Value:1.61627365563715308383e+00
+ShadowValue: higher=1.61627365563715308383e+00 remainder=-1.08683533036297228552e-16
+Absolutely Error:1.08683533036297228552e-16
+Related Error:6.72432744648386710141e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6C8
+Origin Value:1.61643004063255135705e+00
+ShadowValue: higher=1.61643004063255135705e+00 remainder=-5.31747610227816409384e-17
+Absolutely Error:5.31747610227816409384e-17
+Related Error:3.28964196940889356731e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6D0
+Origin Value:1.61658579120529877216e+00
+ShadowValue: higher=1.61658579120529877216e+00 remainder=-5.31771305885133167313e-17
+Absolutely Error:5.31771305885133167313e-17
+Related Error:3.28947160601141709641e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6D8
+Origin Value:1.61674091184575541291e+00
+ShadowValue: higher=1.61674091184575541291e+00 remainder=-5.31794905705500914508e-17
+Absolutely Error:5.31794905705500914508e-17
+Related Error:3.28930196427315166249e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6E0
+Origin Value:1.61689540699901557197e+00
+ShadowValue: higher=1.61689540699901557197e+00 remainder=-5.31818410365189582305e-17
+Absolutely Error:5.31818410365189582305e-17
+Related Error:3.28913303892830835846e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6E8
+Origin Value:1.61704928106549905564e+00
+ShadowValue: higher=1.61704928106549905564e+00 remainder=-2.54286064377383375568e-17
+Absolutely Error:2.54286064377383375568e-17
+Related Error:1.57253132204993977296e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6F0
+Origin Value:1.61720253840153338487e+00
+ShadowValue: higher=1.61720253840153338487e+00 remainder=-1.08697664918629291061e-16
+Absolutely Error:1.08697664918629291061e-16
+Related Error:6.72133899975618701465e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA6F8
+Origin Value:1.61735518331992578211e+00
+ShadowValue: higher=1.61735518331992578211e+00 remainder=5.78334664583696328182e-17
+Absolutely Error:5.78334664583696328182e-17
+Related Error:3.57580493479827719177e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA700
+Origin Value:1.61750722009052783079e+00
+ShadowValue: higher=1.61750722009052783079e+00 remainder=3.00755777782349650972e-17
+Absolutely Error:3.00755777782349650972e-17
+Related Error:1.85937827075366674440e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA708
+Origin Value:1.61765865294078881043e+00
+ShadowValue: higher=1.61765865294078881043e+00 remainder=5.78288495173111409093e-17
+Absolutely Error:5.78288495173111409093e-17
+Related Error:3.57484871188259570444e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA710
+Origin Value:1.61780948605630214843e+00
+ShadowValue: higher=1.61780948605630214843e+00 remainder=-2.54401720818543023867e-17
+Absolutely Error:2.54401720818543023867e-17
+Related Error:1.57250728847370268290e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA718
+Origin Value:1.61795972358134232394e+00
+ShadowValue: higher=1.61795972358134210189e+00 remainder=8.55798446896063134560e-17
+Absolutely Error:1.36464760235424994629e-16
+Related Error:8.43437313342764999106e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA720
+Origin Value:1.61810936961939333401e+00
+ShadowValue: higher=1.61810936961939333401e+00 remainder=2.31084115045839975500e-18
+Absolutely Error:2.31084115045839975500e-18
+Related Error:1.42811184079723149968e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA728
+Origin Value:1.61825842823367027634e+00
+ShadowValue: higher=1.61825842823367027634e+00 remainder=-1.08713729067341685126e-16
+Absolutely Error:1.08713729067341685126e-16
+Related Error:6.71794610617308876823e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA730
+Origin Value:1.61840690344762960784e+00
+ShadowValue: higher=1.61840690344762960784e+00 remainder=-5.32048367156038179189e-17
+Absolutely Error:5.32048367156038179189e-17
+Related Error:3.28748206660905930862e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA738
+Origin Value:1.61855479924547518422e+00
+ShadowValue: higher=1.61855479924547518422e+00 remainder=2.30406445128344714407e-18
+Absolutely Error:2.30406445128344714407e-18
+Related Error:1.42353193871318861120e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA740
+Origin Value:1.61870211957265364155e+00
+ShadowValue: higher=1.61870211957265364155e+00 remainder=8.55685499889235969668e-17
+Absolutely Error:8.55685499889235969668e-17
+Related Error:5.28624439013610297106e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA748
+Origin Value:1.61884886833634378256e+00
+ShadowValue: higher=1.61884886833634356051e+00 remainder=1.13321892990986647611e-16
+Absolutely Error:1.08722711934044660474e-16
+Related Error:6.71605077290362955824e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA750
+Origin Value:1.61899504940593641500e+00
+ShadowValue: higher=1.61899504940593641500e+00 remainder=-5.32137846795402724901e-17
+Absolutely Error:5.32137846795402724901e-17
+Related Error:3.28684048163496211638e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA758
+Origin Value:1.61914066661350997123e+00
+ShadowValue: higher=1.61914066661350997123e+00 remainder=-1.08727151309039793639e-16
+Absolutely Error:1.08727151309039793639e-16
+Related Error:6.71511460066323256874e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA760
+Origin Value:1.61928572375429502550e+00
+ShadowValue: higher=1.61928572375429502550e+00 remainder=2.29294427600583426629e-18
+Absolutely Error:2.29294427600583426629e-18
+Related Error:1.41602204130452633101e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA768
+Origin Value:1.61943022458713525857e+00
+ShadowValue: higher=1.61943022458713525857e+00 remainder=2.29074586212101469623e-18
+Absolutely Error:2.29074586212101469623e-18
+Related Error:1.41453816740083852626e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA770
+Origin Value:1.61957417283493843030e+00
+ShadowValue: higher=1.61957417283493843030e+00 remainder=-8.09781709917051057880e-17
+Absolutely Error:8.09781709917051057880e-17
+Related Error:4.99996680299977432685e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA778
+Origin Value:1.61971757218512202314e+00
+ShadowValue: higher=1.61971757218512202314e+00 remainder=-1.08735928263427769782e-16
+Absolutely Error:1.08735928263427769782e-16
+Related Error:6.71326471544880174348e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA780
+Origin Value:1.61986042629005222437e+00
+ShadowValue: higher=1.61986042629005200233e+00 remainder=8.55509276851599628296e-17
+Absolutely Error:1.36493677239871345255e-16
+Related Error:8.42626161023522667117e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA788
+Origin Value:1.62000273876747535873e+00
+ShadowValue: higher=1.62000273876747535873e+00 remainder=2.28203571769778234218e-18
+Absolutely Error:2.28203571769778234218e-18
+Related Error:1.40866164179079874842e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA790
+Origin Value:1.62014451320094376996e+00
+ShadowValue: higher=1.62014451320094376996e+00 remainder=8.55466056297286906361e-17
+Absolutely Error:8.55466056297286906361e-17
+Related Error:5.28018364613123171748e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA798
+Origin Value:1.62028575314023459697e+00
+ShadowValue: higher=1.62028575314023459697e+00 remainder=-1.08744572482815696164e-16
+Absolutely Error:1.08744572482815696164e-16
+Related Error:6.71144409386187615994e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7A0
+Origin Value:1.62042646210176166655e+00
+ShadowValue: higher=1.62042646210176144450e+00 remainder=1.13297891717289273150e-16
+Absolutely Error:1.08746713207742034934e-16
+Related Error:6.71099341754101982152e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7A8
+Origin Value:1.62056664356898316726e+00
+ShadowValue: higher=1.62056664356898316726e+00 remainder=-8.09932702918206533181e-17
+Absolutely Error:8.09932702918206533181e-17
+Related Error:4.99783644277958896847e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7B0
+Origin Value:1.62070630099280155179e+00
+ShadowValue: higher=1.62070630099280155179e+00 remainder=-2.54842437875530117331e-17
+Absolutely Error:2.54842437875530117331e-17
+Related Error:1.57241591347809546330e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7B8
+Origin Value:1.62084543779195788815e+00
+ShadowValue: higher=1.62084543779195788815e+00 remainder=-2.54863605938380848647e-17
+Absolutely Error:2.54863605938380848647e-17
+Related Error:1.57241153287000611412e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7C0
+Origin Value:1.62098405735342043776e+00
+ShadowValue: higher=1.62098405735342043776e+00 remainder=2.26710608468204477786e-18
+Absolutely Error:2.26710608468204477786e-18
+Related Error:1.39859863173703709884e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7C8
+Origin Value:1.62112216303276768237e+00
+ShadowValue: higher=1.62112216303276768237e+00 remainder=-5.32461462655595416776e-17
+Absolutely Error:5.32461462655595416776e-17
+Related Error:3.28452398466674237801e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7D0
+Origin Value:1.62125975815456491169e+00
+ShadowValue: higher=1.62125975815456491169e+00 remainder=5.77740628455179414893e-17
+Absolutely Error:5.77740628455179414893e-17
+Related Error:3.56352907391475339182e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7D8
+Origin Value:1.62139684601273681430e+00
+ShadowValue: higher=1.62139684601273681430e+00 remainder=3.00164015958831819006e-17
+Absolutely Error:3.00164015958831819006e-17
+Related Error:1.85126803901821522257e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7E0
+Origin Value:1.62153342987093251892e+00
+ShadowValue: higher=1.62153342987093251892e+00 remainder=-2.54968276016008436317e-17
+Absolutely Error:2.54968276016008436317e-17
+Related Error:1.57238988305225919109e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7E8
+Origin Value:1.62166951296288686102e+00
+ShadowValue: higher=1.62166951296288686102e+00 remainder=-2.54988979492449452858e-17
+Absolutely Error:2.54988979492449452858e-17
+Related Error:1.57238560294920640241e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7F0
+Origin Value:1.62180509849277587620e+00
+ShadowValue: higher=1.62180509849277587620e+00 remainder=5.77657661198319335955e-17
+Absolutely Error:5.77657661198319335955e-17
+Related Error:3.56181924532834032729e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA7F8
+Origin Value:1.62194018963556718660e+00
+ShadowValue: higher=1.62194018963556718660e+00 remainder=3.00081352479239352822e-17
+Absolutely Error:3.00081352479239352822e-17
+Related Error:1.85013821346066075925e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA800
+Origin Value:1.62207478953736483618e+00
+ShadowValue: higher=1.62207478953736483618e+00 remainder=-1.08771790612833300599e-16
+Absolutely Error:1.08771790612833300599e-16
+Related Error:6.70571981726294598015e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA808
+Origin Value:1.62220890131574924098e+00
+ShadowValue: higher=1.62220890131574924098e+00 remainder=8.55151983401924261220e-17
+Absolutely Error:8.55151983401924261220e-17
+Related Error:5.27152811643631911902e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA810
+Origin Value:1.62234252806011403081e+00
+ShadowValue: higher=1.62234252806011403081e+00 remainder=-5.32647127150943494869e-17
+Absolutely Error:5.32647127150943494869e-17
+Related Error:3.28319770910429358106e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA818
+Origin Value:1.62247567283199400912e+00
+ShadowValue: higher=1.62247567283199400912e+00 remainder=2.24441287167798178045e-18
+Absolutely Error:2.24441287167798178045e-18
+Related Error:1.38332605490497785529e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA820
+Origin Value:1.62260833866539311288e+00
+ShadowValue: higher=1.62260833866539311288e+00 remainder=-1.08779907948825327313e-16
+Absolutely Error:1.08779907948825327313e-16
+Related Error:6.70401509450503461668e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA828
+Origin Value:1.62274052856710371273e+00
+ShadowValue: higher=1.62274052856710371273e+00 remainder=-2.55151922191732856145e-17
+Absolutely Error:2.55151922191732856145e-17
+Related Error:1.57235194228515759865e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA830
+Origin Value:1.62287224551702435882e+00
+ShadowValue: higher=1.62287224551702435882e+00 remainder=-2.55171961409907589111e-17
+Absolutely Error:2.55171961409907589111e-17
+Related Error:1.57234780565622015749e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA838
+Origin Value:1.62300349246847064322e+00
+ShadowValue: higher=1.62300349246847064322e+00 remainder=2.99919583189355249413e-17
+Absolutely Error:2.99919583189355249413e-17
+Related Error:1.84792937649936492015e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA840
+Origin Value:1.62313427234848339786e+00
+ShadowValue: higher=1.62313427234848339786e+00 remainder=-8.10323338089573007759e-17
+Absolutely Error:8.10323338089573007759e-17
+Related Error:4.99233705981163810597e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA848
+Origin Value:1.62326458805813089725e+00
+ShadowValue: higher=1.62326458805813089725e+00 remainder=2.99879860499991274837e-17
+Absolutely Error:2.99879860499991274837e-17
+Related Error:1.84738743582603345803e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA850
+Origin Value:1.62339444247280884071e+00
+ShadowValue: higher=1.62339444247280884071e+00 remainder=2.99860104645120283171e-17
+Absolutely Error:2.99860104645120283171e-17
+Related Error:1.84711796960671694259e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA858
+Origin Value:1.62352383844253389533e+00
+ShadowValue: higher=1.62352383844253389533e+00 remainder=8.54951930849951492954e-17
+Absolutely Error:8.54951930849951492954e-17
+Related Error:5.26602634717157730294e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA860
+Origin Value:1.62365277879223479651e+00
+ShadowValue: higher=1.62365277879223457447e+00 remainder=1.13248807021583701813e-16
+Absolutely Error:1.08795797903447606272e-16
+Related Error:6.70068128632626176361e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA868
+Origin Value:1.62378126632203789725e+00
+ShadowValue: higher=1.62378126632203789725e+00 remainder=-1.08797752693354292791e-16
+Absolutely Error:1.08797752693354292791e-16
+Related Error:6.70027145588320121945e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA870
+Origin Value:1.62390930380755027507e+00
+ShadowValue: higher=1.62390930380755027507e+00 remainder=2.99781774417895631134e-17
+Absolutely Error:2.99781774417895631134e-17
+Related Error:1.84604998391845427590e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA878
+Origin Value:1.62403689400013839794e+00
+ShadowValue: higher=1.62403689400013839794e+00 remainder=-8.10460661586796855355e-17
+Absolutely Error:8.10460661586796855355e-17
+Related Error:4.99040794319988981538e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA880
+Origin Value:1.62416403962720101717e+00
+ShadowValue: higher=1.62416403962720101717e+00 remainder=8.54854531606930741116e-17
+Absolutely Error:8.54854531606930741116e-17
+Related Error:5.26335093469467513667e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA888
+Origin Value:1.62429074339244206016e+00
+ShadowValue: higher=1.62429074339244206016e+00 remainder=2.99723742774536706090e-17
+Absolutely Error:2.99723742774536706090e-17
+Related Error:1.84525919385924239876e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA890
+Origin Value:1.62441700797613575169e+00
+ShadowValue: higher=1.62441700797613552965e+00 remainder=1.13237180154000668557e-16
+Absolutely Error:1.08807424771030639528e-16
+Related Error:6.69824461556174115747e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA898
+Origin Value:1.62454283603539040293e+00
+ShadowValue: higher=1.62454283603539040293e+00 remainder=-2.55426122532666273185e-17
+Absolutely Error:2.55426122532666273185e-17
+Related Error:1.57229539823043395429e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8A0
+Origin Value:1.62466823020440886971e+00
+ShadowValue: higher=1.62466823020440864767e+00 remainder=1.13233358096895848866e-16
+Absolutely Error:1.08811246828135459219e-16
+Related Error:6.69744411844905086606e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8A8
+Origin Value:1.62479319309474323774e+00
+ShadowValue: higher=1.62479319309474323774e+00 remainder=-8.10575723790797746391e-17
+Absolutely Error:8.10575723790797746391e-17
+Related Error:4.98879320294845829904e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8B0
+Origin Value:1.62491772729554839749e+00
+ShadowValue: higher=1.62491772729554839749e+00 remainder=2.99628354388805263064e-17
+Absolutely Error:2.99628354388805263064e-17
+Related Error:1.84396015475500641403e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8B8
+Origin Value:1.62504183537383095626e+00
+ShadowValue: higher=1.62504183537383073421e+00 remainder=8.54720985085468131855e-17
+Absolutely Error:1.36572506416484494899e-16
+Related Error:8.40424556731900040251e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8C0
+Origin Value:1.62516551987469393126e+00
+ShadowValue: higher=1.62516551987469393126e+00 remainder=-1.08818812518204114700e-16
+Absolutely Error:1.08818812518204114700e-16
+Related Error:6.69586027930216191153e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8C8
+Origin Value:1.62528878332158055464e+00
+ShadowValue: higher=1.62528878332158055464e+00 remainder=-5.33095365984431229458e-17
+Absolutely Error:5.33095365984431229458e-17
+Related Error:3.28000396886362217616e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8D0
+Origin Value:1.62541162821651230530e+00
+ShadowValue: higher=1.62541162821651230530e+00 remainder=2.99553213047331313707e-17
+Absolutely Error:2.99553213047331313707e-17
+Related Error:1.84293755407679066843e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8D8
+Origin Value:1.62553405704032516432e+00
+ShadowValue: higher=1.62553405704032516432e+00 remainder=5.77090343066948330551e-17
+Absolutely Error:5.77090343066948330551e-17
+Related Error:3.55015842681069272324e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8E0
+Origin Value:1.62565607225290209570e+00
+ShadowValue: higher=1.62565607225290209570e+00 remainder=2.19602675438876923681e-18
+Absolutely Error:2.19602675438876923681e-18
+Related Error:1.35085568950966594659e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8E8
+Origin Value:1.62577767629340219635e+00
+ShadowValue: higher=1.62577767629340219635e+00 remainder=-2.55613989267783890699e-17
+Absolutely Error:2.55613989267783890699e-17
+Related Error:1.57225672977965992517e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8F0
+Origin Value:1.62589887158048762572e+00
+ShadowValue: higher=1.62589887158048762572e+00 remainder=2.19233284202510091251e-18
+Absolutely Error:2.19233284202510091251e-18
+Related Error:1.34838204290897865101e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA8F8
+Origin Value:1.62601966051254676060e+00
+ShadowValue: higher=1.62601966051254676060e+00 remainder=2.19049517742378408884e-18
+Absolutely Error:2.19049517742378408884e-18
+Related Error:1.34715171693145824405e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA900
+Origin Value:1.62614004546791446337e+00
+ShadowValue: higher=1.62614004546791446337e+00 remainder=-2.55669119567659690827e-17
+Absolutely Error:2.55669119567659690827e-17
+Related Error:1.57224539350232931630e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA908
+Origin Value:1.62626002880508968573e+00
+ShadowValue: higher=1.62626002880508946369e+00 remainder=8.54535650973474815198e-17
+Absolutely Error:1.36591039827683814239e-16
+Related Error:8.39908977705400655517e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA910
+Origin Value:1.62637961286294951968e+00
+ShadowValue: higher=1.62637961286294929764e+00 remainder=1.13207321379149480974e-16
+Absolutely Error:1.08837283545881827111e-16
+Related Error:6.69199753151684726538e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA918
+Origin Value:1.62649879996096169421e+00
+ShadowValue: higher=1.62649879996096169421e+00 remainder=-2.55723699935347151911e-17
+Absolutely Error:2.55723699935347151911e-17
+Related Error:1.57223417528180707201e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA920
+Origin Value:1.62661759239939307520e+00
+ShadowValue: higher=1.62661759239939285315e+00 remainder=8.54481251787326644120e-17
+Absolutely Error:1.36596479746298643673e-16
+Related Error:8.39757791779491096979e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA928
+Origin Value:1.62673599245951505665e+00
+ShadowValue: higher=1.62673599245951505665e+00 remainder=-2.55759786044468160907e-17
+Absolutely Error:2.55759786044468160907e-17
+Related Error:1.57222676101102694115e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA930
+Origin Value:1.62685400240380850789e+00
+ShadowValue: higher=1.62685400240380850789e+00 remainder=-2.55777739899472465397e-17
+Absolutely Error:2.55777739899472465397e-17
+Related Error:1.57222307300802739702e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA938
+Origin Value:1.62697162447616294756e+00
+ShadowValue: higher=1.62697162447616294756e+00 remainder=8.54427389880931739539e-17
+Absolutely Error:8.54427389880931739539e-17
+Related Error:5.25164284998536643928e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA940
+Origin Value:1.62708886090207593966e+00
+ShadowValue: higher=1.62708886090207593966e+00 remainder=2.17422852389802680937e-18
+Absolutely Error:2.17422852389802680937e-18
+Related Error:1.33626907303182613612e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA948
+Origin Value:1.62720571388884738262e+00
+ShadowValue: higher=1.62720571388884738262e+00 remainder=2.17245074017490456100e-18
+Absolutely Error:2.17245074017490456100e-18
+Related Error:1.33508057502021661608e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA950
+Origin Value:1.62732218562577335419e+00
+ShadowValue: higher=1.62732218562577335419e+00 remainder=2.99262543723583664837e-17
+Absolutely Error:2.99262543723583664837e-17
+Related Error:1.83898767169148312680e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA958
+Origin Value:1.62743827828433640370e+00
+ShadowValue: higher=1.62743827828433640370e+00 remainder=2.16891254052505902571e-18
+Absolutely Error:2.16891254052505902571e-18
+Related Error:1.33271569771085319249e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA960
+Origin Value:1.62755399401839317974e+00
+ShadowValue: higher=1.62755399401839317974e+00 remainder=-1.08855150403722377088e-16
+Absolutely Error:1.08855150403722377088e-16
+Related Error:6.68826661381362348677e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA968
+Origin Value:1.62766933496436005946e+00
+ShadowValue: higher=1.62766933496436005946e+00 remainder=-5.33457539522268356640e-17
+Absolutely Error:5.33457539522268356640e-17
+Related Error:3.27743189641125154466e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA970
+Origin Value:1.62778430324139677943e+00
+ShadowValue: higher=1.62778430324139677943e+00 remainder=-5.33475030622602097473e-17
+Absolutely Error:5.33475030622602097473e-17
+Related Error:3.27730786910954119496e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA978
+Origin Value:1.62789890095158651384e+00
+ShadowValue: higher=1.62789890095158651384e+00 remainder=-2.55936709189165250299e-17
+Absolutely Error:2.55936709189165250299e-17
+Related Error:1.57219044155357396065e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA980
+Origin Value:1.62801313018011484246e+00
+ShadowValue: higher=1.62801313018011462042e+00 remainder=8.54268936773383370065e-17
+Absolutely Error:1.36617711247692983404e-16
+Related Error:8.39168362435617053616e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA988
+Origin Value:1.62812699299544538789e+00
+ShadowValue: higher=1.62812699299544538789e+00 remainder=-5.33527166925118681370e-17
+Absolutely Error:5.33527166925118681370e-17
+Related Error:3.27693828073895933445e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA990
+Origin Value:1.62824049144949434265e+00
+ShadowValue: higher=1.62824049144949434265e+00 remainder=2.99122834060068335950e-17
+Absolutely Error:2.99122834060068335950e-17
+Related Error:1.83709246656667306304e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA998
+Origin Value:1.62835362757780188758e+00
+ShadowValue: higher=1.62835362757780188758e+00 remainder=2.99105621700080009113e-17
+Absolutely Error:2.99105621700080009113e-17
+Related Error:1.83685912343870724640e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9A0
+Origin Value:1.62846640339970138989e+00
+ShadowValue: higher=1.62846640339970138989e+00 remainder=8.54199976469143647005e-17
+Absolutely Error:8.54199976469143647005e-17
+Related Error:5.24542584781519295274e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9A8
+Origin Value:1.62857882091848726880e+00
+ShadowValue: higher=1.62857882091848726880e+00 remainder=2.99071361124746240996e-17
+Absolutely Error:2.99071361124746240996e-17
+Related Error:1.83639475893512907964e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9B0
+Origin Value:1.62869088212157975271e+00
+ShadowValue: higher=1.62869088212157975271e+00 remainder=2.99054312302259489061e-17
+Absolutely Error:2.99054312302259489061e-17
+Related Error:1.83616372870401719766e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9B8
+Origin Value:1.62880258898068830398e+00
+ShadowValue: higher=1.62880258898068830398e+00 remainder=-5.33629951079735210076e-17
+Absolutely Error:5.33629951079735210076e-17
+Related Error:3.27621011097289066360e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9C0
+Origin Value:1.62891394345197260130e+00
+ShadowValue: higher=1.62891394345197237925e+00 remainder=1.13168764455662455901e-16
+Absolutely Error:1.08875840469368852184e-16
+Related Error:6.68395288204364199141e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9C8
+Origin Value:1.62902494747620152360e+00
+ShadowValue: higher=1.62902494747620130155e+00 remainder=1.13167075657173624817e-16
+Absolutely Error:1.08877529267857683268e-16
+Related Error:6.68360109748707774577e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9D0
+Origin Value:1.62913560297891035766e+00
+ShadowValue: higher=1.62913560297891035766e+00 remainder=-8.11236371483637335449e-17
+Absolutely Error:8.11236371483637335449e-17
+Related Error:4.97955093486554334878e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9D8
+Origin Value:1.62924591187055556318e+00
+ShadowValue: higher=1.62924591187055556318e+00 remainder=8.54081383225632312111e-17
+Absolutely Error:8.54081383225632312111e-17
+Related Error:5.24218828479398688328e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9E0
+Origin Value:1.62935587604666887174e+00
+ShadowValue: higher=1.62935587604666887174e+00 remainder=-2.56158371183487934890e-17
+Absolutely Error:2.56158371183487934890e-17
+Related Error:1.57214501110100569909e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9E8
+Origin Value:1.62946549738800672280e+00
+ShadowValue: higher=1.62946549738800672280e+00 remainder=2.13807073472032840756e-18
+Absolutely Error:2.13807073472032840756e-18
+Related Error:1.31213010533061504848e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9F0
+Origin Value:1.62957477776070147613e+00
+ShadowValue: higher=1.62957477776070147613e+00 remainder=-8.11303186872806678140e-17
+Absolutely Error:8.11303186872806678140e-17
+Related Error:4.97861894983222614382e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FA9F8
+Origin Value:1.62968371901640751709e+00
+ShadowValue: higher=1.62968371901640751709e+00 remainder=2.98903263593954526622e-17
+Absolutely Error:2.98903263593954526622e-17
+Related Error:1.83411824089619686586e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA00
+Origin Value:1.62979232299244825022e+00
+ShadowValue: higher=1.62979232299244825022e+00 remainder=-5.33780527720088331322e-17
+Absolutely Error:5.33780527720088331322e-17
+Related Error:3.27514444748407146294e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA08
+Origin Value:1.62990059151195842979e+00
+ShadowValue: higher=1.62990059151195842979e+00 remainder=5.76426025095743536930e-17
+Absolutely Error:5.76426025095743536930e-17
+Related Error:3.53657166638014774358e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA10
+Origin Value:1.63000852638402782269e+00
+ShadowValue: higher=1.63000852638402782269e+00 remainder=-8.11369176734408182666e-17
+Absolutely Error:8.11369176734408182666e-17
+Related Error:4.97769897274298507816e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA18
+Origin Value:1.63011612940384020831e+00
+ShadowValue: higher=1.63011612940383998627e+00 remainder=8.53948989642122686003e-17
+Absolutely Error:1.36649705960819039484e-16
+Related Error:8.38282030929870398669e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA20
+Origin Value:1.63022340235281260057e+00
+ShadowValue: higher=1.63022340235281260057e+00 remainder=5.76376913141109425836e-17
+Absolutely Error:5.76376913141109425836e-17
+Related Error:3.53557010842352038405e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA28
+Origin Value:1.63033034699873291551e+00
+ShadowValue: higher=1.63033034699873291551e+00 remainder=-2.56306625724950639020e-17
+Absolutely Error:2.56306625724950639020e-17
+Related Error:1.57211467109585652252e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA30
+Origin Value:1.63043696509589364219e+00
+ShadowValue: higher=1.63043696509589364219e+00 remainder=-2.56322846441507358804e-17
+Absolutely Error:2.56322846441507358804e-17
+Related Error:1.57211135375866435349e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA38
+Origin Value:1.63054325838522684577e+00
+ShadowValue: higher=1.63054325838522662373e+00 remainder=8.53884006882865610139e-17
+Absolutely Error:1.36656204236744759397e-16
+Related Error:8.38102292189900437045e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA40
+Origin Value:1.63064922859443517389e+00
+ShadowValue: higher=1.63064922859443517389e+00 remainder=-8.11466652202729587225e-17
+Absolutely Error:8.11466652202729587225e-17
+Related Error:4.97634094428871473704e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA48
+Origin Value:1.63075487743812308494e+00
+ShadowValue: higher=1.63075487743812286290e+00 remainder=8.53851811479210517156e-17
+Absolutely Error:1.36659423777110256369e-16
+Related Error:8.38013276353334970805e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA50
+Origin Value:1.63086020661792474584e+00
+ShadowValue: higher=1.63086020661792474584e+00 remainder=5.76280030700308421736e-17
+Absolutely Error:5.76280030700308421736e-17
+Related Error:3.53359551212177158074e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA58
+Origin Value:1.63096521782263259581e+00
+ShadowValue: higher=1.63096521782263259581e+00 remainder=2.98708298297657616170e-17
+Absolutely Error:2.98708298297657616170e-17
+Related Error:1.83148172035476315495e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA60
+Origin Value:1.63106991272832146933e+00
+ShadowValue: higher=1.63106991272832146933e+00 remainder=5.76248126328840965732e-17
+Absolutely Error:5.76248126328840965732e-17
+Related Error:3.53294559498642099514e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA68
+Origin Value:1.63117429299847405133e+00
+ShadowValue: higher=1.63117429299847405133e+00 remainder=-5.33990778553245119224e-17
+Absolutely Error:5.33990778553245119224e-17
+Related Error:3.27365862032834674328e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA70
+Origin Value:1.63127836028410277969e+00
+ShadowValue: higher=1.63127836028410277969e+00 remainder=-5.34006611193181164319e-17
+Absolutely Error:5.34006611193181164319e-17
+Related Error:3.27354683415391314473e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA78
+Origin Value:1.63138211622387152566e+00
+ShadowValue: higher=1.63138211622387152566e+00 remainder=5.76200628159728995311e-17
+Absolutely Error:5.76200628159728995311e-17
+Related Error:3.53197832947592573992e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA80
+Origin Value:1.63148556244421572003e+00
+ShadowValue: higher=1.63148556244421572003e+00 remainder=-2.56482378461138359237e-17
+Absolutely Error:2.56482378461138359237e-17
+Related Error:1.57207875058905440764e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA88
+Origin Value:1.63158870055945981470e+00
+ShadowValue: higher=1.63158870055945981470e+00 remainder=-8.11609582051071204746e-17
+Absolutely Error:8.11609582051071204746e-17
+Related Error:4.97435157385422082588e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA90
+Origin Value:1.63169153217193474426e+00
+ShadowValue: higher=1.63169153217193474426e+00 remainder=5.76153554083889007295e-17
+Absolutely Error:5.76153554083889007295e-17
+Related Error:3.53102006552043887628e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAA98
+Origin Value:1.63179405887209405535e+00
+ShadowValue: higher=1.63179405887209405535e+00 remainder=2.98582199670014489420e-17
+Absolutely Error:2.98582199670014489420e-17
+Related Error:1.82977869080119282388e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAA0
+Origin Value:1.63189628223862714940e+00
+ShadowValue: higher=1.63189628223862714940e+00 remainder=-8.11656377064006902487e-17
+Absolutely Error:8.11656377064006902487e-17
+Related Error:4.97370075474760388215e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAA8
+Origin Value:1.63199820383857230333e+00
+ShadowValue: higher=1.63199820383857230333e+00 remainder=2.09953852063093554194e-18
+Absolutely Error:2.09953852063093554194e-18
+Related Error:1.28648335255068059890e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAB0
+Origin Value:1.63209982522742924615e+00
+ShadowValue: higher=1.63209982522742924615e+00 remainder=-8.11687343787446873827e-17
+Absolutely Error:8.11687343787446873827e-17
+Related Error:4.97327020836081620055e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAB8
+Origin Value:1.63220114794926773882e+00
+ShadowValue: higher=1.63220114794926773882e+00 remainder=2.09645095952816650473e-18
+Absolutely Error:2.09645095952816650473e-18
+Related Error:1.28443173941042267326e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAC0
+Origin Value:1.63230217353683815240e+00
+ShadowValue: higher=1.63230217353683815240e+00 remainder=-2.56606616441586794162e-17
+Absolutely Error:2.56606616441586794162e-17
+Related Error:1.57205338938915314495e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAC8
+Origin Value:1.63240290351167782745e+00
+ShadowValue: higher=1.63240290351167782745e+00 remainder=-1.08928920981695832676e-16
+Absolutely Error:1.08928920981695832676e-16
+Related Error:6.67291884542501299307e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAD0
+Origin Value:1.63250333938421787749e+00
+ShadowValue: higher=1.63250333938421787749e+00 remainder=5.76030046958552726113e-17
+Absolutely Error:5.76030046958552726113e-17
+Related Error:3.52850761809670733552e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAD8
+Origin Value:1.63260348265388910427e+00
+ShadowValue: higher=1.63260348265388910427e+00 remainder=2.98459055156199162624e-17
+Absolutely Error:2.98459055156199162624e-17
+Related Error:1.82811722703811161769e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAE0
+Origin Value:1.63270333480922458236e+00
+ShadowValue: higher=1.63270333480922458236e+00 remainder=8.53555376112409226656e-17
+Absolutely Error:8.53555376112409226656e-17
+Related Error:5.22786569926461276798e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAE8
+Origin Value:1.63280289732796357605e+00
+ShadowValue: higher=1.63280289732796357605e+00 remainder=2.08729603520486470834e-18
+Absolutely Error:2.08729603520486470834e-18
+Related Error:1.27835150134818260387e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAF0
+Origin Value:1.63290217167715212554e+00
+ShadowValue: higher=1.63290217167715212554e+00 remainder=2.08578569022364325412e-18
+Absolutely Error:2.08578569022364325412e-18
+Related Error:1.27734883718192072419e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAAF8
+Origin Value:1.63300115931324429930e+00
+ShadowValue: higher=1.63300115931324429930e+00 remainder=-5.34268715240055808464e-17
+Absolutely Error:5.34268715240055808464e-17
+Related Error:3.27169832178650501675e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB00
+Origin Value:1.63309986168220055980e+00
+ShadowValue: higher=1.63309986168220055980e+00 remainder=-2.56727975513368720737e-17
+Absolutely Error:2.56727975513368720737e-17
+Related Error:1.57202864036080435721e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB08
+Origin Value:1.63319828021958657338e+00
+ShadowValue: higher=1.63319828021958657338e+00 remainder=-2.56742948761263583665e-17
+Absolutely Error:2.56742948761263583665e-17
+Related Error:1.57202558850811447239e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB10
+Origin Value:1.63329641635066979966e+00
+ShadowValue: higher=1.63329641635066979966e+00 remainder=-8.11869391356867581230e-17
+Absolutely Error:8.11869391356867581230e-17
+Related Error:4.97074127653359557414e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB18
+Origin Value:1.63339427149051497068e+00
+ShadowValue: higher=1.63339427149051497068e+00 remainder=2.07829895785573982238e-18
+Absolutely Error:2.07829895785573982238e-18
+Related Error:1.27238046204192795305e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB20
+Origin Value:1.63349184704407979218e+00
+ShadowValue: higher=1.63349184704407979218e+00 remainder=-8.11899123887917241454e-17
+Absolutely Error:8.11899123887917241454e-17
+Related Error:4.97032859611210645151e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB28
+Origin Value:1.63358914440630753617e+00
+ShadowValue: higher=1.63358914440630731413e+00 remainder=8.53420610375820888555e-17
+Absolutely Error:1.36702543887449219229e-16
+Related Error:8.36823287884487090211e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB30
+Origin Value:1.63368616496222007761e+00
+ShadowValue: higher=1.63368616496222007761e+00 remainder=-5.34372930966725961526e-17
+Absolutely Error:5.34372930966725961526e-17
+Related Error:3.27096441426425134865e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB38
+Origin Value:1.63378291008700982090e+00
+ShadowValue: higher=1.63378291008700982090e+00 remainder=5.75835375001005131661e-17
+Absolutely Error:5.75835375001005131661e-17
+Related Error:3.52455256720942235249e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB40
+Origin Value:1.63387938114612984997e+00
+ShadowValue: higher=1.63387938114612984997e+00 remainder=-5.34402326585639019908e-17
+Absolutely Error:5.34402326585639019908e-17
+Related Error:3.27075751583796700445e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB48
+Origin Value:1.63397557949538274613e+00
+ShadowValue: higher=1.63397557949538274613e+00 remainder=5.75806062567697875079e-17
+Absolutely Error:5.75806062567697875079e-17
+Related Error:3.52395757802893736734e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB50
+Origin Value:1.63407150648101051615e+00
+ShadowValue: higher=1.63407150648101051615e+00 remainder=8.53347224537020230515e-17
+Absolutely Error:8.53347224537020230515e-17
+Related Error:5.22221470206473485404e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB58
+Origin Value:1.63416716343978096759e+00
+ShadowValue: higher=1.63416716343978096759e+00 remainder=-8.12001865506202443695e-17
+Absolutely Error:8.12001865506202443695e-17
+Related Error:4.96890332686044500757e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB60
+Origin Value:1.63426255169907408415e+00
+ShadowValue: higher=1.63426255169907386211e+00 remainder=8.53318159205577985952e-17
+Absolutely Error:1.36712789004473509490e-16
+Related Error:8.36541159572793184749e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB68
+Origin Value:1.63435767257696817900e+00
+ShadowValue: higher=1.63435767257696817900e+00 remainder=5.75747931502337291664e-17
+Absolutely Error:5.75747931502337291664e-17
+Related Error:3.52277803789747326811e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB70
+Origin Value:1.63445252738232471579e+00
+ShadowValue: higher=1.63445252738232471579e+00 remainder=8.53289256591549475395e-17
+Absolutely Error:8.53289256591549475395e-17
+Related Error:5.22064264514396238989e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB78
+Origin Value:1.63454711741487090926e+00
+ShadowValue: higher=1.63454711741487090926e+00 remainder=2.98163353494030583553e-17
+Absolutely Error:2.98163353494030583553e-17
+Related Error:1.82413434472046839859e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB80
+Origin Value:1.63464144396528299197e+00
+ShadowValue: higher=1.63464144396528299197e+00 remainder=2.98149002794864575882e-17
+Absolutely Error:2.98149002794864575882e-17
+Related Error:1.82394129241957949007e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB88
+Origin Value:1.63473550831526814875e+00
+ShadowValue: higher=1.63473550831526814875e+00 remainder=-1.08964408879496947978e-16
+Absolutely Error:1.08964408879496947978e-16
+Related Error:6.66556811944422111658e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB90
+Origin Value:1.63482931173764467481e+00
+ShadowValue: higher=1.63482931173764467481e+00 remainder=-2.56991091437357471677e-17
+Absolutely Error:2.56991091437357471677e-17
+Related Error:1.57197506548377251962e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAB98
+Origin Value:1.63492285549642302200e+00
+ShadowValue: higher=1.63492285549642302200e+00 remainder=2.05504331125045779486e-18
+Absolutely Error:2.05504331125045779486e-18
+Related Error:1.25696653168780292622e-18
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABA0
+Origin Value:1.63501614084688395856e+00
+ShadowValue: higher=1.63501614084688395856e+00 remainder=2.98091996976218435655e-17
+Absolutely Error:2.98091996976218435655e-17
+Related Error:1.82317464353481351528e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABA8
+Origin Value:1.63510916903565717284e+00
+ShadowValue: higher=1.63510916903565717284e+00 remainder=5.75633599964123755196e-17
+Absolutely Error:5.75633599964123755196e-17
+Related Error:3.52045973972255760922e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABB0
+Origin Value:1.63520194130079854489e+00
+ShadowValue: higher=1.63520194130079854489e+00 remainder=5.75619485731575495276e-17
+Absolutely Error:5.75619485731575495276e-17
+Related Error:3.52017369349299963533e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABB8
+Origin Value:1.63529445887186675179e+00
+ShadowValue: higher=1.63529445887186675179e+00 remainder=-5.34617614377357013807e-17
+Absolutely Error:5.34617614377357013807e-17
+Related Error:3.26924372229678577690e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABC0
+Origin Value:1.63538672296999854083e+00
+ShadowValue: higher=1.63538672296999831879e+00 remainder=8.53147129483303002617e-17
+Absolutely Error:1.36729891976701007823e-16
+Related Error:8.36070698485237442301e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABC8
+Origin Value:1.63547873480798378054e+00
+ShadowValue: higher=1.63547873480798378054e+00 remainder=5.75577374784706602307e-17
+Absolutely Error:5.75577374784706602307e-17
+Related Error:3.51932044443416878933e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABD0
+Origin Value:1.63557049559034028974e+00
+ShadowValue: higher=1.63557049559034028974e+00 remainder=1.13067492675020244197e-16
+Absolutely Error:1.13067492675020244197e-16
+Related Error:6.91303083418668804337e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABD8
+Origin Value:1.63566200651338577998e+00
+ShadowValue: higher=1.63566200651338577998e+00 remainder=-5.34673532521395767731e-17
+Absolutely Error:5.34673532521395767731e-17
+Related Error:3.26885096304901051392e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABE0
+Origin Value:1.63575326876531046416e+00
+ShadowValue: higher=1.63575326876531046416e+00 remainder=2.97979851446057513282e-17
+Absolutely Error:2.97979851446057513282e-17
+Related Error:1.82166746743521333318e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABE8
+Origin Value:1.63584428352624966507e+00
+ShadowValue: higher=1.63584428352624966507e+00 remainder=-2.57145507715029485689e-17
+Absolutely Error:2.57145507715029485689e-17
+Related Error:1.57194367645264451313e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABF0
+Origin Value:1.63593505196835353743e+00
+ShadowValue: higher=1.63593505196835353743e+00 remainder=5.75507951379905429737e-17
+Absolutely Error:5.75507951379905429737e-17
+Related Error:3.51791442262610274121e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FABF8
+Origin Value:1.63602557525585812215e+00
+ShadowValue: higher=1.63602557525585812215e+00 remainder=-8.12284601478021592906e-17
+Absolutely Error:8.12284601478021592906e-17
+Related Error:4.96498718457373973173e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAC00
+Origin Value:1.63611585454515351401e+00
+ShadowValue: higher=1.63611585454515351401e+00 remainder=8.53036200504751562460e-17
+Absolutely Error:8.53036200504751562460e-17
+Related Error:5.21378848652437789182e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAC08
+Origin Value:1.63620589098485402779e+00
+ShadowValue: higher=1.63620589098485402779e+00 remainder=-5.34756278284884605849e-17
+Absolutely Error:5.34756278284884605849e-17
+Related Error:3.26827009504902673184e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAC10
+Origin Value:1.63629568571586414549e+00
+ShadowValue: higher=1.63629568571586414549e+00 remainder=5.75453085105277259007e-17
+Absolutely Error:5.75453085105277259007e-17
+Related Error:3.51680377897911432838e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAC18
+Origin Value:1.63638523987144757221e+00
+ShadowValue: higher=1.63638523987144757221e+00 remainder=2.97883704314776072621e-17
+Absolutely Error:2.97883704314776072621e-17
+Related Error:1.82037638238644505799e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAC20
+Origin Value:1.63647455457729207318e+00
+ShadowValue: higher=1.63647455457729207318e+00 remainder=5.75425872266375434064e-17
+Absolutely Error:5.75425872266375434064e-17
+Related Error:3.51625309820359695123e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+
+==12941== EBvac[i] `s type is double,and it`s address is 0x10FAC28
+Origin Value:1.63656363095157630916e+00
+ShadowValue: higher=1.63656363095157630916e+00 remainder=-5.34810704304066579874e-17
+Absolutely Error:5.34810704304066579874e-17
+Related Error:3.26788823965923095580e-17
+LastOp:/home/shijia/Public/testprogram/ETD_S.c_e.c:100:14
+totaltime=11.450000s
